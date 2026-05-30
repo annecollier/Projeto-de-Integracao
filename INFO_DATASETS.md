@@ -203,3 +203,6 @@ Descrição do “Metadados de Acidente de Trânsito com Vítimas”:
 "Coordenadas geográfias em graus decimais - Longitude".
 
 Tipo: “Num”. Tamanho: 20.
+
+# Abordagem de desenvolvimento
+O desenvolvidor deve identificar o mês e ano dos dados do arquivo, com essa base separar quais as colunas utilizadas e extrair os dados (seja o formato CSV ou GeoJSON). Após isso, tratar os dados: formatação, valores null, tipos incompatíveis, etc. Por fim, integrar esses dados em um Data Warehouse que padronize esses dados.
