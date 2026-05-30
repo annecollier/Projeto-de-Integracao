@@ -1,0 +1,65 @@
+{
+	"metadados": {
+		"cabecalho": {
+			"titulo": "Acidentes de Trânsito com Vítimas",
+			"descricao": "Dados dos acidentes com vítimas do trânsito de Recife, disponibilizados pela CTTU",
+			"categoria_vcge": "http://vocab.e.gov.br/2011/03/vcge#transportes-transito",
+			"fonte_dados": "http://dados.recife.pe.gov.br",
+			"licenca": "Open Database License (ODbL)",
+			"responsavel_dados": "CTTU",
+			"responsavel_disponibilizar": "Emprel",
+			"frequencia_atualizacao": "Mensal",
+			"endereco_dataset": "http://dados.recife.pe.gov.br/dataset/acidentes-de-transito-com-vitimas",
+			"status": "ativo",
+			"endereco_dataset_substituto": "",
+			"granularidade": "Por Ano",
+			"etiquetas": "acidente, acidentes, animal, bicicleta, caminhão, ciclista, cttu, mobilidade, taxi, transito, trânsito"
+		},
+		"recursos": [
+			{ 
+				"identificador": "http://dados.recife.pe.gov.br/dataset/acidentes-de-transito-com-vitimas/resource/121bfaa2-5894-4c5a-b40b-219bb2ac4fc4",
+				"titulo": "Acidentes - 2014",
+				"formato": "csv",
+				"descricao": "Acidentes com Vítimas ocorridos no ano de 2014 a partir de março"
+			}
+		],
+		"campos": [
+			{
+				"codigo": "tipo_acidente",
+				"descricao": "Descritivo do Tipo de Acidente",
+				"tipo": "Char",
+				"tamanho": 250,
+				"valores_permitidos": ""
+			},
+			{
+				"codigo": "data_acidente",
+				"descricao": "Data do Acidente",
+				"tipo": "Date",
+				"tamanho": 10,
+				"valores_permitidos": ""
+			},
+			{
+				"codigo": "latitude",
+				"descricao": "Coordenadas geográfias em graus decimais - Latitude",
+				"tipo": "Num",
+				"tamanho": 20,
+				"valores_permitidos": ""
+			},
+			{
+				"codigo": "longitude",
+				"descricao": "Coordenadas geográfias em graus decimais - Longitude",
+				"tipo": "Num",
+				"tamanho": 20,
+				"valores_permitidos": ""
+			},
+			{
+				"codigo": "envolvido",
+				"descricao": "Descrição do tipo de envolvimento no acidente",
+				"tipo": "Char",
+				"tamanho": 250,
+				"valores_permitidos": ""
+			}
+			
+		]
+	}
+}

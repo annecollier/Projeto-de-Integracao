@@ -9,8 +9,11 @@
 ```
 .
 ├── insights/                     # Arquivos SQL com as insights finais
-├── data/                         # Dados brutos (ignorados no git)
 ├── pipelns/                      # Pipelines de ETL e ELT
+│   └── data/                     # Dados brutos
+│       ├── 2014/
+|       ├── 2015/                
+│       └── 2016/
 ├── transf_acidentes/             # Pipeline: Transformação
 │   ├── models/
 │   │   ├── base/                 # Integração dos dados brutos
