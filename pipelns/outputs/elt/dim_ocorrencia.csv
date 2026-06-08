@@ -1,0 +1,15 @@
+sk_ocorrencia,tipo_ocorrencia,classificacao_ocorrencia
+1,ACID DE PERCURSO,Outros
+2,ACID. DE PERCURSO,Outros
+3,ATROPELAMENTO,Atropelamento
+4,ATROPELAMENTO ANIMAL,Atropelamento de animal
+5,CAPOTAMENTO,Perda de controle
+6,CHOQUE,Colisão
+7,COLISÃO,Colisão
+8,COLISÃO COM CICLIST,Colisão
+9,ENGAVETAMENTO,Colisão
+10,ENTRADA E SAÍD,Outros
+11,FISCALIZAÇÃO,Outros
+12,NÃO INFORMADO,Outros
+13,QUEDA DE ÁRVORE,Outros
+14,TOMBAMENTO,Perda de controle

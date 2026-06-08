@@ -1,0 +1,7 @@
+sk_veiculo,tipo_veiculo,categoria_veiculo
+1,Automóvel,Motorizado de quatro ou mais rodas
+2,Ciclista,Não motorizado
+3,Ciclomotor,Motorizado de duas rodas
+4,Motocicleta,Motorizado de duas rodas
+5,Outros,Outros
+6,Pedestre,Pedestre
