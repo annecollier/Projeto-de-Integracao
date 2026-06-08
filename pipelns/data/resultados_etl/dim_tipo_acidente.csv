@@ -1,0 +1,1199 @@
+sk_tipo_acidente;causa_acidente;descricao_detalhada
+1;Colisão entre veículos;Moto
+2;Acidente com ciclista;Ciclista
+3;Não classificado;Pedestre
+4;Atropelamento de animal;Acidente com animal
+5;Colisão entre veículos;Caminhão
+6;Colisão entre veículos;Taxi
+7;Colisão entre veículos;Onibus
+8;Colisão entre veículos;Ciclomotor
+9;Colisão entre veículos;Ônibus
+10;Acidente com ciclista;Acidente com morte
+11;Colisão entre veículos;Táxi
+12;Colisão entre veículos;Acidente com morte
+13;Não classificado;Carroça
+14;Não classificado;Acidente com morte
+15;Não classificado;Moto
+16;Atropelamento de pedestre;Pedestre
+17;Não classificado;Ciclomotor
+18;Não classificado;Táxi
+19;Não classificado;Ônibus
+20;Atropelamento de pedestre;Ciclista
+21;Não classificado;Caminhão
+22;Atropelamento de pedestre;Carroça
+23;Atropelamento de pedestre;Acidente com morte
+24;Colisão entre veículos;COLISÃO ENTRE UM CAMINHÃO E UMA BICICLETA
+25;Colisão entre veículos;AUTO - BICICLETA
+26;Colisão entre veículos;AUTO E BICICLETA
+27;Colisão entre veículos;COLISÃO COM VITIMA ENTRE UM AUTO-PASSEIO E UMA BICICLETA
+28;Colisão entre veículos;COLISÃO MOTO E BICICLETA
+29;Colisão entre veículos;COLISÃO A CICLISTA
+30;Colisão entre veículos;
+31;Colisão entre veículos;AUTO E CINQUENTINHA
+32;Colisão entre veículos;COLC/V
+33;Colisão entre veículos;CINQUENTINHA E AUTO
+34;Colisão entre veículos;COLISÃO ENTRE DUAS 50CC
+35;Colisão entre veículos;SEM VÍTIMAS
+36;Colisão entre veículos;CELTA X CINQUENTINHA
+37;Colisão entre veículos;COM UMA VÍTIMA( VEICULOS REMOVIDO PARAO ACOSTAMENTOS)
+38;Colisão entre veículos;C/V ENTRE AUTO E CIQUENTINHA
+39;Colisão entre veículos;COLISAO ENTRE DUAS MOTOS COM VITIMA
+40;Colisão entre veículos;COLISÃO COM VITIMA ENTRE UM AUTO-PASSEIO E UMA MOTO
+41;Colisão entre veículos;COLISÃO ENTRE MOTOCICLETA E AUTOMOVEL
+42;Colisão entre veículos;COLISÃO ENTRE UMA MOTOCICLETA E UM AUTOMOVEL
+43;Colisão entre veículos;MOTO E AUTO
+44;Não classificado;MOTOQUEIRO CAIU NA VIA MAS JA FOI SOCORRIDO
+45;Colisão entre veículos;COLISÃO ENTRE MOTO E CAMINÃO C/V
+46;Colisão entre veículos;COLISÃO COM 1 VITIMA SOCORRIDO PELOS BOMBEIROS
+47;Colisão entre veículos;COLISÃO COM 2 VITIMAS SOCORRIDOS PELOS SAMU
+48;Colisão entre veículos;01 AUTO 01 MOTO
+49;Colisão entre veículos;AUTO E MOTO
+50;Colisão entre veículos;UM AUTO E UMA MOTO
+51;Colisão entre veículos;COLISÃO ENTRE AUTO E MOTO C/V
+52;Colisão entre veículos;COLISÃO COM 1 VITIMA
+53;Colisão entre veículos;COLISÃO ENTRE UMA MOTO E UM TAXI
+54;Colisão entre veículos;COLISÃO SEGUIDA DE CHOQUE -AUTO - MOTO
+55;Colisão entre veículos;COLISÃO COM 2 VITIMAS A ESPERA DO SAMU
+56;Colisão entre veículos;COLISÃO COM VÍTIMA ENTRE UM AUTO E UMA MOTO
+57;Colisão entre veículos;COLISÃO ENTRE AUTO E MOTO COM VITIMA
+58;Colisão entre veículos;COLISÃO ENTRE DUAS MOTOS- C/V JA SOCORRIDA
+59;Colisão entre veículos;COLISÃO ENTRE AUTO E MOTO CV
+60;Colisão entre veículos;COLISÃO COM 1 VITIMA SOCORRIDO PELO SAMU
+61;Colisão entre veículos;AUTO X MOTO
+62;Colisão entre veículos;COLISÃO COM VÍTIMA
+63;Colisão entre veículos;CXAMINHÃO E MOTO
+64;Colisão entre veículos;COM UMA VÍTIMA
+65;Colisão entre veículos;COLS/V
+66;Colisão entre veículos;UMA MOTO E UM AUTO
+67;Colisão entre veículos;COLISÃO ENTRE AUTO E MOTO
+68;Colisão entre veículos;AUTO - MOTO
+69;Colisão entre veículos;COLISÃO COM VITIMA ENTRE UM AUTO E UMA MOTO
+70;Colisão entre veículos;COLISÃO ENTRE DUAS MOTOS SUB/CID
+71;Colisão entre veículos;COLISÃO ENTRE AUTO E MOTO VEÍCULO SE EVADIU DO LOCAL SEM PRESTAR SOCORRO
+72;Colisão entre veículos;COLISÃO SEM VITIMAS
+73;Colisão entre veículos;01 AUTO E 01 MOTO
+74;Colisão entre veículos;UMA MOTO E UM CARRO ( RUA DR ALVARO FERRAZ )
+75;Colisão entre veículos;ONIBUS E MOTO
+76;Colisão entre veículos;COLISÃO ENTRE UMA AUTOMOVEL E UMA MOTOCICLETA
+77;Colisão entre veículos;COLC/VSET SUB
+78;Colisão entre veículos;COLISÃO ENTRE ÔNIBUS E MOTOCICLETA
+79;Colisão entre veículos;COLISÃO ENTRE UMA MOTO E UM AUTO
+80;Não classificado;MOTOQUEIRO CAI SÓ E FICA ACIDENTADO- FAMILIA VAI BUSCAR A MOTO DO MESMO
+81;Atropelamento de pedestre;MOTO
+82;Colisão entre veículos;COLISÃO ENTRE KOMBE E UMA MOTO
+83;Colisão entre veículos;COLISÃO ENTRE AUTO (VIATURA) E MOTOCICLETA
+84;Colisão entre veículos;COLISÃO ENTRE DOIS AUTOS
+85;Colisão entre veículos;COLISÃO ENTRE MOTO E AUTO
+86;Colisão entre veículos;COLISÃO COM 2 VITIMAS SOCORRIDO PELO SAMU
+87;Colisão entre veículos;COLISÃO COM VITIMA
+88;Colisão entre veículos;COLISÃO COM 1 VITIMA A ESPERA DO SAMU
+89;Colisão entre veículos;DUAS MOTOS
+90;Colisão entre veículos;ENTRE UM AUTO E UMA MOTO
+91;Colisão entre veículos;COLISÃO COM VITIMA '
+92;Colisão entre veículos;UM AUTO E DUAS MOTOS
+93;Colisão entre veículos;DOIS AUTO E UMA MOTO
+94;Colisão entre veículos;COLISÃO ENTRE UMA MOTO E UM AUTO COM VÍTIMA
+95;Colisão entre veículos;COLISÃO ENTRE UM CARRO E UMA MOTO
+96;Colisão entre veículos;COLISÃO ENTRE AUTO E MOTO- C/V
+97;Colisão entre veículos;COLISAÕ ENTRE UMA MOTO E UM CARRO COM VÍTIMA
+98;Colisão entre veículos;COLISÃO ENTRE AUTO E UMA MOTOCICLETA
+99;Colisão entre veículos;COLISÃO COM 1 VITIMA SOCORRIDA PELO SAMU
+100;Colisão entre veículos;COLISÃO COM 2 VITIMAS SOCORRIDAS PELO SAMU
+101;Colisão entre veículos;02 MOTOS
+102;Colisão entre veículos;2 MOTOS
+103;Colisão entre veículos;ENTRE UMA MOTO E UM AUTO
+104;Colisão entre veículos;COLISAO COM VITIMA ENTRE MOTO E CAMINHAO
+105;Colisão entre veículos;COLISÃO COM VÍTIMA ENTRE AUTO E MOTOCICLETA
+106;Colisão entre veículos;COLISÃO COM 2 VITIMAS GM HELIO QTH
+107;Colisão entre veículos;COLISÃO ENVOLVENDO AUTO E MOTO COM LESÕES
+108;Colisão entre veículos;MOTOX AUTO
+109;Colisão entre veículos;COLISÃO ENTRE UM AUTO E UMA MOTOCICLETA COM VÍTIMA- LOCAL DESCARACTERIZADO PELOS CONDUTORES
+110;Colisão entre veículos;COLISÃO ENTRE UM CAMINHÃO E UMA MOTOCICLETA
+111;Colisão entre veículos;MOTO E AUTO / SERGIO LUIS BT 05 NO QTH
+112;Colisão entre veículos;COLISÃO ENTRE AUTO E MOTOCICLETA COM VÍTIMA
+113;Colisão entre veículos;COLISÃO ENTRE UM VEICULO E UMA MOTO
+114;Colisão entre veículos;TRES AUTO E UMA MOTO
+115;Colisão entre veículos;ENTRE UM AUTO E UMA MOTO COM VITIMA
+116;Colisão entre veículos;TRES CARROS E DUAS MOTOS
+117;Colisão entre veículos;2 MOTOS E UM AUTO
+118;Colisão entre veículos;MOTOCICLISTA COLIDIU COM A MURETA DO VIADUTO
+119;Não classificado;COLISÃO AUTO E MOTO.
+120;Colisão entre veículos;C/V ENTRE KOMBI E MOTO
+121;Colisão entre veículos;COLCOM VITMA
+122;Atropelamento de pedestre;COLISÃO E ATROPOLAMENTO / AUTO E MOTO / SUB ANDRADE MT 05 NO QTH
+123;Atropelamento de pedestre;ATROPELAMENTO ENVOLVENDO MOTOCICLETA E PEDESTRE COM VITIMA FATAL
+124;Atropelamento de pedestre;AUTO PASSEIO
+125;Atropelamento de pedestre;ATROPELAMENTO COM 2 VITIMAS
+126;Atropelamento de pedestre;ENTRE UM PEDESTRE E UMA CINQUENTINHA
+127;Atropelamento de pedestre;ATROPELAMENTO DE PEDESTRE
+128;Atropelamento de pedestre;NÃO INFORMADO
+129;Atropelamento de pedestre;ATROLELAMENTO
+130;Atropelamento de pedestre;ATROPELAMENTO DE MOTO EM PEDESTRE- JÁ SENDO SOCORRIDO PELO SAMU
+131;Atropelamento de pedestre;ATROPELAMENTO ENVOLVENDO PEDESTRE NO AGUARDO DE ATENDIMENTO
+132;Atropelamento de pedestre;AUTO E CICLISTA- VITIMA JA SOCORRIDA PELO SAMU
+133;Atropelamento de pedestre;VIATURA DO SAMU ATROPELOU O PEDESTRE
+134;Atropelamento de pedestre;ATROPELAMENTO
+135;Atropelamento de pedestre;ATROPELAMENTO DE PEDESTRE NA FAIXA DO BRT- O VEÍCULO SE ENCONTRA AO LADO DA IPUTINGA AUTO MOVEIS
+136;Atropelamento de pedestre;ATROPELAMENTO AUTO X PEDESTRE
+137;Atropelamento de pedestre;ATROPELAMENTO UMA MOTO COM UMA CRIANÇA
+138;Atropelamento de pedestre;ATROPELAMENTO COM UMA VITIMA
+139;Colisão entre veículos;DOIS AUTOS
+140;Colisão entre veículos;NÃO INFORMADO
+141;Colisão entre veículos;4 CARROS - CAMINHAO
+142;Colisão entre veículos;COLISÃO COM VITIMAS
+143;Colisão entre veículos;DOIS AUTO
+144;Colisão entre veículos;DOIS AUTO X CAMINHAO
+145;Colisão entre veículos;COLISAO ENTRE DOIS AUTO
+146;Colisão entre veículos;COLISAO DE DOIS AUTOS COM UMA VITIMA
+147;Colisão entre veículos;CONDUTOR COLIDIU CONTRA UM POSTE VITIMA SOCORRIDA OBS POSTE CAIDO NO MEIO DA VIA
+148;Colisão entre veículos;TIJOLO CAIU EM CIMA DO VEICULO COM VITIMA A ESPERA DO SAMU
+149;Colisão entre veículos;COLISAO ENTRE DOIS AUTOS
+150;Atropelamento de pedestre;ENVOLVENDO UMA MOTO E UM PEDESTRE
+151;Atropelamento de pedestre;ATROPELAMENTO MOTO E PEDESTRE
+152;Atropelamento de pedestre;TAXI
+153;Atropelamento de pedestre;ATROLPELAMENTO ENVOLVENDO MOTO E PEDESTRE
+154;Atropelamento de pedestre;ATROPELAMENTO ENVOLVENDO ÔNIBUS E PEDESTRE
+155;Atropelamento de pedestre;AUTO E PEDESTRE
+156;Atropelamento de pedestre;ATROPELAMENTO COM UM PEDESTRE
+157;Atropelamento de pedestre;VITIMA A ESPERA DO SAMU
+158;Atropelamento de pedestre;SHYNERAI ATROPELOU UM PEDESTRE
+159;Atropelamento de pedestre;ATROPELAMENTO E COLISAO ENTRE MOTOS
+160;Atropelamento de pedestre;AUTO E PEDESTRE C/V
+161;Atropelamento de pedestre;CINQUENTINHA E PEDESTRE
+162;Atropelamento de pedestre;PEDESTRE SOCORRIDA PELO SAMU
+163;Atropelamento de pedestre;ATROPELAMENTO COM VITIMA FATAL
+164;Atropelamento de pedestre;VITIMA SOCORRIDO PELO SAMU
+165;Colisão entre veículos;ATROPELAMENTO DE CICLISTA AGUARDANDO A CHEGADA DOS BOMBEIROS
+166;Colisão entre veículos;COLISAO ENTRE MOTO E CICLISTA
+167;Colisão entre veículos;COLC/V SET BOA VIAGEM
+168;Colisão entre veículos;CICLISTA E AUTO VT DA CTTU 10 ESTA NO LOCAL
+169;Colisão entre veículos;AUTO X BICICLETA
+170;Colisão entre veículos;COM UMA VÍTIMA.
+171;Colisão entre veículos;COLISÃO COM VÍTIMA ENVOLVENDO 50CC
+172;Colisão entre veículos;AUTO MOTO
+173;Capotamento/Tombamento;NÃO INFORMADO
+174;Colisão entre veículos;COLC/VSET/SET AV RECIFE
+175;Colisão entre veículos;COLISÃO ENTRE MOTO E AUTO C/V
+176;Colisão entre veículos;CONDUTOR PERDEU O CONTROLE E CHOCOU-SE COM O POSTE
+177;Colisão entre veículos;COLISÃO COM VITIMAS-VEICULOS FORAM RETIRADOS DO LOCAL
+178;Colisão entre veículos;COLISÃO COM VITIMA ENTRE AUTO E MOTO
+179;Colisão entre veículos;COLISÃO ENTRE AUTO E MOTO COM LESÕES
+180;Colisão entre veículos;COLISAO DE AUTO E MOTO COM UMA VITIMA
+181;Colisão entre veículos;CAMINHAO MOTO- SEMAFORO 351
+182;Colisão entre veículos;1 AUTO E 1 MOTO
+183;Colisão entre veículos;COLISÃO ENTRE AUTO (IC) E MOTOCICLETA COM VÍTIMA
+184;Colisão entre veículos;1 AUTO- 1 CARRO
+185;Colisão entre veículos;01 MOTO 01 ONIBUS
+186;Colisão entre veículos;auto e moto
+187;Colisão entre veículos;COLISAO ENTRE AUTO E MOTO
+188;Colisão entre veículos;COLISÃO COM COM 1 VITIMA A ESPERA DO SAMU
+189;Colisão entre veículos;COLISÃO COM VITIMA UM CARRO E UMA MOTO
+190;Colisão entre veículos;COLISÃO ENTRE AUTO E MOTO COM VÍTIMA
+191;Colisão entre veículos;COLISAO COM VITIMA ENTRE AUTO E MOTO
+192;Colisão entre veículos;COLISÃO ENVOLVENDO MOTOCICLETA
+193;Colisão entre veículos;COLISAO ENTRE AUTOI E MOTO
+194;Colisão entre veículos;COLISÃO COM VÍTIMA ENTRE AUTO E MOTO
+195;Colisão entre veículos;COLISÃO COM VITIMA -MULHER GRAVIDA
+196;Colisão entre veículos;COLISÃO COM 2 VITIMAS
+197;Colisão entre veículos;COLISAO AUTO E MOTO
+198;Colisão entre veículos;COLISAO COM VITIMA ENVOLVENDO AUTO E MOTO
+199;Colisão entre veículos;COLISÃO AUTO X MOTO
+200;Colisão entre veículos;COLISÃO MOTO E CAMINHÃO BAÚ COM 2 VITIMAS
+201;Colisão entre veículos;COLC/V SET/BR
+202;Colisão entre veículos;AUTO E MOTO- VITIMA JA SOCORRIDA P/ SAMU
+203;Colisão entre veículos;COLISAO ENTRE UM AUTO E MOTO
+204;Colisão entre veículos;COLISAO ENTRE MOTO E AUTO
+205;Colisão entre veículos;02 AUTOS 01 MOTO
+206;Colisão entre veículos;01 MOTO 01 AUTO
+207;Colisão entre veículos;AUTO KLB 2944 X MOTO PEY8293
+208;Colisão entre veículos;COLC/V-SETAEROPORTO
+209;Colisão entre veículos;AUTO E MOTO / MOTO 37 GM ANDRADE
+210;Colisão entre veículos;COLISÃO ENTRE UM ÔNIBUS E MOTO
+211;Colisão entre veículos;CONDUTOR COLIDIU EM UM OBJETO FIXO
+212;Colisão entre veículos;COLISÃO SEM VÍTIMA
+213;Colisão entre veículos;COLC/VSETCD
+214;Colisão entre veículos;COLISÃO ENTRE ÔNIBUS E MOTO
+215;Colisão entre veículos;DUAS MOTOS E UM AUTO
+216;Colisão entre veículos;COLISAO ENTRE MOTOS
+217;Colisão entre veículos;COLISAO ENTRE UM CARRO E MOTO
+218;Não classificado;CONDUTOR PERDEU O CONTROLE DA MOTO CAIU ESPONTANEAMENTE
+219;Colisão entre veículos;COLISAO ENTRE CAMINHAO E MOTO - USUARIO INFORMOU QUE OS VEICULOS FOI RETIRADO DA VIA
+220;Colisão entre veículos;COLISÃO ENTRE DUA MOTO C/V
+221;Colisão entre veículos;BATEDOR DA CTTU VT 08 NO LOCAL
+222;Colisão entre veículos;COLISAO ENTRE AUTO E MOTO C/V
+223;Colisão entre veículos;COLISÃO COM VITIMA-VT DA CTTU 39 NO LOCAL
+224;Colisão entre veículos;UM VEICULO DA CELPE E UM AUTRO E MOTO
+225;Colisão entre veículos;COM VÍTIMA
+226;Colisão entre veículos;COLISAO ENTRE AUTO E MOTO COM VITIMA
+227;Colisão entre veículos;COLISAO ENTRE AUTO E MOTO C/ VITIMA - VEICULOS REMOVIDOS DO LOCAL PELO USUARIO
+228;Colisão entre veículos;COLISAO COM VITIMA ENTRE MOTO E ONIBUS
+229;Colisão entre veículos;CONDUTOR CAIU DA MOTO AO TENTAR DESVIAR DE DOIS CARROS ESTACIONADOS EM CIMA DA CALÇADA
+230;Colisão entre veículos;COLISÃO ENTRE DOIS AUTO E UMA MOTO- C/V
+231;Colisão entre veículos;COLISÃO DE TRES VEÍCULOS COM VÍTIMAS
+232;Colisão entre veículos;COLISÃO SEM VITIMA ENTRE DOIS AUTO-PASSEIO
+233;Colisão entre veículos;CHOQUE CONTRA UMA ARVORE COM VITIMA NAS FERRAGENS
+234;Colisão entre veículos;COLISAO COM VITIMA ENTRE UM AUTO E UM ONIBUS
+235;Colisão entre veículos;ENGAVETAMENTO ENVOLVENDO 5 AUTO- E UM CAMINÃO COM VITIMA
+236;Colisão entre veículos;DOIS AUTO PASSEIO ACIDENTE GRAVE
+237;Colisão entre veículos;DOIS AUTO PASSEIO
+238;Colisão entre veículos;ENTRE QUATRO VEÍCULOS
+239;Atropelamento de pedestre;ATROPELAMENTO COM VITIMA- E CAPOTAMENTO- VEICULO SE ENCONTRA DENTRO DO CANAL
+240;Colisão entre veículos;AUTO E ONIBUS
+241;Colisão entre veículos;CAMINHÃO E AUTO
+242;Colisão entre veículos;COLISAO ENTRE DOIS AUTOS COM VITIMA
+243;Colisão entre veículos;COLISÃO COM VITIMAS SOCORRIDAS PELOS BOMBEIROS
+244;Atropelamento de pedestre;AUTO
+245;Colisão entre veículos;01 AO - 01 BICICLETA
+246;Colisão entre veículos;AUTO - CICLISTA
+247;Colisão entre veículos;MOTO E BICICLETA
+248;Atropelamento de pedestre;ATROPELAMENTO DE UM CICLISTA
+249;Colisão entre veículos;DOIS AUTOS E CINQUENTINHA
+250;Colisão entre veículos;COLISÃO ENTRE UMA MOTOCICLETA E UM ÔNIBUS
+251;Colisão entre veículos;COLISÃO ENTRE AUTO E MOTOFCICLETA
+252;Colisão entre veículos;COLISÃO COM 1 VITIMA ESPERA DO SAMU
+253;Colisão entre veículos;COLISÃO COM VITIMA ENTRE UMA MOTO E UM AUTO
+254;Colisão entre veículos;AUTO E UMA CINQUENTINHA
+255;Colisão entre veículos;COLISÃO ENTE UM AUTO-PASSEIO E UMA MOTO COM VITIMA
+256;Colisão entre veículos;COLISÃO ENTRE AUTO E CINQUENTINHA
+257;Colisão entre veículos;AUTO E CICLOMOTOR
+258;Colisão entre veículos;COLISÃO ENTRE AUTO E 50CC COM VÍTIMA
+259;Colisão entre veículos;COLISAO DE ONIBUS E SHINERAY
+260;Colisão entre veículos;COLISÃO COM 1 VITIMA SOCORRIDA PELOS BOMBEIROS
+261;Colisão entre veículos;02 MOTOS- 02 AUTOS
+262;Colisão entre veículos;COLISÃO 2 VITIMAS A ESPERA DO SAMU
+263;Colisão entre veículos;COLISÃO COM VÍTIMA ENTRE UM CARRO E UMA MOTO
+264;Colisão entre veículos;AUTO E MOTO VT DA CTTU ESTA NO LOCAL N: 04
+265;Colisão entre veículos;COLISÃO ENTRE UM AUTO PASSEIO E UMA MOTO
+266;Colisão entre veículos;ENTRE AUTO E UMA MOTO
+267;Colisão entre veículos;C/V ENTRE UMA MOTO E UM AUTO
+268;Colisão entre veículos;ENTRE AUTO E MOTO
+269;Colisão entre veículos;DOIS E MOTO
+270;Colisão entre veículos;COLISÃO ENTRE CAMINHÃO E MOTO
+271;Colisão entre veículos;COLISÃO COM VÍTIMA ENTRE DOIS AUTOS
+272;Colisão entre veículos;COLISÃO ENTRE AUTO/ CAMINHÃO/ MOTOCICLETA - BOMBEIROS NO LOCAL
+273;Colisão entre veículos;COLISÃO COM VÍTIMA ENTRE AUTO E MOTOCICLETA AUTO EVADIU-SE DO LOCAL
+274;Colisão entre veículos;COLISAO DE MOTO E AUTO COM UMA VITIMA
+275;Colisão entre veículos;COLISÃO ENTRE AUTO X MOTOCICLETA
+276;Colisão entre veículos;COLISÃO ENTRE 2 AUTOS E UMA MOTO
+277;Colisão entre veículos;COLISÃO COM VITIMA JA SOCORRIDA PELO SAMU-CONDUTOR DO VEICULO SE EVADIU PORÉM A PLACA E O PARA-CHO
+278;Colisão entre veículos;C/V ENTRE MOTO E UM AUTO
+279;Colisão entre veículos;COLISAO ENTRE UMA MOTO E UM CAMINHAO
+280;Atropelamento de animal;ATROPELAMENTO DE UM ANIMAL ENTRE MOTOCILISTA CONDUTOR SOCORRIDO PELO SAMU
+281;Colisão entre veículos;COLIÇÃO DE MOTO E AUTO SEGUNDO ORIENTADOR 1 JOSÉ JUSTINO O VEICULO SE EVADIO DO LOCAL
+282;Atropelamento de animal;MOTO ATROPELOU UM ANIMAL
+283;Colisão entre veículos;AUTO E MOTO BT RICARDO LIMA ESTA NO LOCAL
+284;Colisão entre veículos;colisão com vitima já socorrida-a condutora do auto-passeio retirou o veiculo do local
+285;Colisão entre veículos;SET/OLINDA
+286;Colisão entre veículos;COLISÃO ENTRE AUTOMOVEL E MOTOCICLETA
+287;Colisão entre veículos;01 AUTO- 01 MOTO
+288;Colisão entre veículos;AUTO E MATO
+289;Colisão entre veículos;COLISÃO COM 2 VITIMAS ENTRE AUTO-PASSEIO E UMA MOTO
+290;Colisão entre veículos;COLISÃO ENTRE AUTO E MOTOCICLETA COM VITIMA
+291;Colisão entre veículos;COLCOM DUAS VITIMA JA SOCORRIDA
+292;Colisão entre veículos;COLISAO DE MOTO E CAMINHAO COM UMA VITIMA
+293;Colisão entre veículos;COLISÃO ENTRE UM ONIBUS E UMA MOTO
+294;Colisão entre veículos;COLCOM VITIMA SET/JABOATÃO P/BR 101
+295;Colisão entre veículos;COLISAO COM VITIMA ENTRE MOTO E AUTO
+296;Colisão entre veículos;COLISÃO ENTRE UM AUTO E UMA MOTO COM VITIMA FATAL
+297;Colisão entre veículos;COLISÃO COM VITIMA ENTRE UMA MOTO E UM AUTO-PASSEIO
+298;Colisão entre veículos;COLCOM V/T
+299;Colisão entre veículos;COLISÃO COM 1 VITIMA FATAL
+300;Colisão entre veículos;COLISÃO 1 VITIMA SOCORRIDO PELO SAMU
+301;Colisão entre veículos;COLISAO- COM VITIMA- CAMINHAO E AUTO
+302;Colisão entre veículos;ONIBUS - MOTOCICLETA
+303;Colisão entre veículos;COLISAO DE MOTO CAMINHAO
+304;Colisão entre veículos;MOTO AUTO E ONIBUS
+305;Colisão entre veículos;COLISÃO ENTRE UM AUTO E UMA MOTO
+306;Atropelamento de animal;ATROPELAMENTO DE ANIMAL- MOTOQUEIRO ANIMAL
+307;Colisão entre veículos;C/V ENTRE AUTO E MOTO
+308;Colisão entre veículos;COLISÃO ENTRE UMA MOTO E DOIS AUTOS
+309;Colisão entre veículos;COLISAO E MOTO E AUTO COM UMA VITIMA
+310;Colisão entre veículos;VEICULO SOB PERSEGUIÇÃO COLIDE COM UMA MOTO E UM AUTO PASSEIO VT DA POLICIA ESTA NO LOCAL
+311;Colisão entre veículos;COLISÃO AUTO E MOTO- C/V
+312;Colisão entre veículos;COLISÃO ENTRE AUTO E MOTO C/ VÍTIMA
+313;Colisão entre veículos;COLISAO ENTRE UMA MOTO E UM AUTO C/ VITIMA
+314;Colisão entre veículos;COLISÃO COM 1 VITIMA SENDO ATENDIDO NO LOCAL
+315;Colisão entre veículos;COLISAO ENTRE DOIS AUTOS E UM ONIBUS
+316;Colisão entre veículos;COLISÃO ENTRE UM AUTOMOVEL E UM ÔNIBUS
+317;Colisão entre veículos;ENTRE MICRO ONIBUS - ONIBUS
+318;Atropelamento de pedestre;ONIBUS
+319;Atropelamento de pedestre;COLISÃO ENTRE AUTO E MOTO
+320;Atropelamento de pedestre;
+321;Atropelamento de pedestre;ATROPELAMENTO PEDRESTE SOCORRIDO PELO SAMU
+322;Atropelamento de pedestre;ONIBUS E PEDESTRE
+323;Atropelamento de pedestre;COLISÃO COM VITIMA ENTRE UMA MOTO E UM AUTO-PASSEIO E UM ATROPELAMENTO
+324;Atropelamento de pedestre;C/V ENTRE ONIBUS E TAXI
+325;Atropelamento de pedestre;ÔNIBUS ATROPELOU UM PEDESTRE
+326;Atropelamento de pedestre;ATROPELAMENTO COM VITIMA ESPERANDO ATENDIMENTO DO SAMU
+327;Atropelamento de pedestre;ATROPELAMENTO- VÍTIMA AGUARDANDO SOCORRO
+328;Atropelamento de pedestre;MOTOCICLETA E PEDESTRE
+329;Atropelamento de pedestre;MOTO TITAN
+330;Atropelamento de pedestre;ATROPELAMENTO COM 2 VITIMAS SOCORRIDOS PELO SAMU
+331;Atropelamento de pedestre;ATROPELAMENTO MOTOCICLETA PEDESTRE - GM WALLACE NO LOCAL - HT 01
+332;Atropelamento de pedestre;ATROPELAMENTO A UM PEDESTRE
+333;Atropelamento de pedestre;ATROPELAMENTO MOTOCICLETA X PEDESTRE - SAMU NO LOCAL
+334;Atropelamento de pedestre;ONBUS E PEDESTRE
+335;Atropelamento de pedestre;MOTO E PEDESTRE
+336;Colisão entre veículos;COLISAO C/V
+337;Capotamento/Tombamento;CAPOTAMENTO DE UM VEICULO E QUEDA DE UMA ARVORE
+338;Capotamento/Tombamento;CAPOTAMENTO DE UM VEICULO
+339;Colisão entre veículos;COLISÃO ENTRE DOIS AUTO C/V
+340;Colisão entre veículos;COLISAO ENTRE AUTOS
+341;Colisão entre veículos;COLISÃO ENTRE AUTOS
+342;Colisão entre veículos;COLISÃO ENTRE DOIS AUTOMOVEIS
+343;Colisão entre veículos;COLISÃO ENTRE DOIS OUTOS
+344;Colisão entre veículos;COLISÃO ENTRE DOIS AUTOS COM VÍTIMA
+345;Colisão entre veículos;COLISÃO ENTRE UM AUTO PASSEIO E UM TÁXI COM VÍTIMA
+346;Colisão entre veículos;ONIBUS - AUTO
+347;Colisão entre veículos;ENTRE DOIS AUTO
+348;Colisão entre veículos;VEICULO CHOCOU SE CONTRA UM MURO
+349;Colisão entre veículos;COM UMA VÍTIMA JÁ SOCORRIDA
+350;Colisão entre veículos;COLISÃO ENTRE AUTO E BICICLETA
+351;Colisão entre veículos;AUTO ÔNIBUS E BICICLETA
+352;Colisão entre veículos;COLISÃO ENTRE MOTOCICLETA E CICLISTA - VITIMA ( MOTO ) SENDO SOCORRIDA PELOS BOMBEIROS
+353;Colisão entre veículos;ENTRE UMA CHINERAY E UM AUTO
+354;Colisão entre veículos;COM CICLISTA JA SOCORRIDO
+355;Colisão entre veículos;ENTRE UM AUTO E UMA BICICLETA
+356;Colisão entre veículos;COLISÃO COM 1 VITIMA SOCORRIDA PELO SAMU IC ENCONTRA SE JA NO LOCAL AGUARDANDO A EQUIPE DA CTTU
+357;Colisão entre veículos;RUA JEAN EMILE FAVRE C/ RUA JAMAICA
+358;Colisão entre veículos;COLIOSÃO ENTRE CINQUENTINHA - AUTO
+359;Colisão entre veículos;COLISÃO DE AUTO E CINQUENTINHA
+360;Colisão entre veículos;COLISÃO ENTRE AUTO E CICLISTA
+361;Colisão entre veículos;COLISÃO ENTRE UM AUTO E UM CIQUENTINHA
+362;Colisão entre veículos;COLISÃO DE ONIBUS E CINQUENTINHA COM 2 VITIMA
+363;Colisão entre veículos;1 CINQUENTINHA- 1AUTO
+364;Colisão entre veículos;COLISAO ENTRE AUTO E UMA CINQUENTINHA
+365;Colisão entre veículos;COM UMA VÍTIMA GM STEPHANE NO LOCAL.
+366;Colisão entre veículos;COLISÃO COM 1 VITIMA A ESPERA DO BOMBEIRO
+367;Colisão entre veículos;COLISÃO AUTO E MOTO
+368;Colisão entre veículos;ACIDENTE DE PERCURSO
+369;Colisão entre veículos;VITIMA AGUARDANDO SOCORRO
+370;Colisão entre veículos;VIATURA PM - MOTOCICLETA
+371;Colisão entre veículos;COLISAO COM VITIMA
+372;Colisão entre veículos;COLISÃO
+373;Colisão entre veículos;COLISÃO ENTRE AUTO-MOTOCICLETA
+374;Colisão entre veículos;AUTO E MOTO O PROPIETARIO DO AUTO SE EVADIU
+375;Colisão entre veículos;COLISÃO COM VITIMA O MESMO ESTA ALCOOLISADO POLICIA NO LOCAL
+376;Colisão entre veículos;COLVT
+377;Colisão entre veículos;COLISÃO ENTRE ONIBUS E UMA MOTO
+378;Colisão entre veículos;COLC/B
+379;Colisão entre veículos;COLISÃO ENTRE AUTO X MOTO
+380;Colisão entre veículos;COLISÃO ENTRE MOTOCICLETAS
+381;Colisão entre veículos;COLISÃO DE MOT E AUTO COM VITIMA
+382;Colisão entre veículos;COLISÃO COM VITIMA COM SUSPEITA DE EMBRIAGUZ
+383;Colisão entre veículos;COM VÍTIMA.
+384;Atropelamento de pedestre;COLISÃO ENTRE DUAS MOTOS
+385;Colisão entre veículos;AUTO E MOTO COLM VITIMA
+386;Colisão entre veículos;CHOQUE DE UMA MOTOCICLETA CONTRA UM MURO
+387;Colisão entre veículos;COLISÃO COM VÍTIMA ENTRE DUAS MOTOS- UMA MOTO DESAPARECEU DO LOCAL E A OUTRA É UMA SHINERAY 50 CC
+388;Colisão entre veículos;SEM VÍTIMAS VT 36 NO LOCAL
+389;Colisão entre veículos;AUTO R MOTO
+390;Colisão entre veículos;COLISÃO DE MOTO E AUTO COM VITIMA
+391;Colisão entre veículos;COLISÃO DE MOTO E AUTO COM UAM VITIMA
+392;Colisão entre veículos;COLISÃO COM VÍTIMA ENTRE UM ONIBUS E UMA MOTO- LOCAL PRESERVADO
+393;Colisão entre veículos;COLISAO ENTRE MOTO E DOIS AUTOS
+394;Colisão entre veículos;COLISAO ENTRE MOTO E TRES AUTOS
+395;Colisão entre veículos;COLISÃO ENTRE UMA MOTOCICLETA E UAM KOBI
+396;Colisão entre veículos;COLISÃO C/ VITIMA
+397;Colisão entre veículos;C/V ENTRE AUTO E CINQUENTINHA
+398;Colisão entre veículos;ENTRE DUAS MOTO
+399;Capotamento/Tombamento;COLISÃO E CAPOTAMENTO COM CINCO VEICULO E UMA VITIMA
+400;Colisão entre veículos;COLISAO- COM VÍTIMA- MOTO FOI RETIRADA DO LOCAL
+401;Colisão entre veículos;MOTO INVADE CALÇADA E BATE NO MURO
+402;Colisão entre veículos;COLISÃO ENTRE UM AUTO E UMA MOTO- NA FAIXA DO BRT
+403;Atropelamento de pedestre;ATROPELAMENTO NA FAIXA BRT
+404;Colisão entre veículos;COLISÃO ENTRE DUAS MOTOS
+405;Colisão entre veículos;COLISÃO ENTRE UMA CINQUENTINHA E UM AUTO
+406;Colisão entre veículos;COLISAO
+407;Colisão entre veículos;KIN2153 SANDEIRO-PGT2837 FAZER
+408;Colisão entre veículos;COLISÃO COM VÍTIMA ENTRE UMA MOTO E DOIS CARROS
+409;Colisão entre veículos;3 MOTOS E 1 AUTO
+410;Colisão entre veículos;CAMINHÃO E MOTO
+411;Colisão entre veículos;ONIBUS E AUTO
+412;Colisão entre veículos;COLISAO ENTRE UM ONIBUS E UM AUTO
+413;Colisão entre veículos;COM VÍTIMAS.
+414;Colisão entre veículos;C/V ENTRE UM TÁXI E UMA MOTO
+415;Colisão entre veículos;CONDUTOR PERDEU O CONTROLE NA CURVA E SE CHOCOU COM UMA PLACA DE SINALIZAÇÃO
+416;Colisão entre veículos;COLISÃO ENTRE UM MICRO ONIBUS E UMA MOTO
+417;Colisão entre veículos;COLISAO ENTRE UM CARRO E UMA MOTO
+418;Colisão entre veículos;COLCOM UMA VITIMA JA SOCORRIDA
+419;Colisão entre veículos;COLISAO ENTRE UM MICRO ONIBUS E UMA MOTO
+420;Colisão entre veículos;CONDUTOR COM SUSPEITA DE EMBREAGUÊS
+421;Colisão entre veículos;COLISÃO ENTRE UMA MOTO E UM AUTO PASSEIO COM VÍTIMA
+422;Colisão entre veículos;COLISÃO ENTRE ONIBUS E MOTOCICLETA COM VÍTIMA
+423;Colisão entre veículos;ENTRE UMA MOTO E AUTO
+424;Colisão entre veículos;COLISÃO ENTRE UM AUTOMOVEL E UMA MOTOCICLETA
+425;Colisão entre veículos;COLISÃO TRANSVERSAL
+426;Colisão entre veículos;COQUE COM GUARD RAIL
+427;Colisão entre veículos;COLISÃO COM VÍTIMA ENTRE UMA MOTO E UM CARRO
+428;Colisão entre veículos;COLISÃO ENTRE UM AUTO E UMA MOTO DA POLICIA
+429;Colisão entre veículos;TOMBAMENTO SEGUIDO DE CHOQUE
+430;Colisão entre veículos;CAMINHÃOE MOTOCICLETA
+431;Atropelamento de animal;ONIBUS ATROPELOU UM MENINO QUE GALOPAVA UM CAVALO
+432;Atropelamento de animal;ATROPELAMENTO DE ANIMAIS
+433;Atropelamento de pedestre;ATROPELAMENTO C/V
+434;Atropelamento de pedestre;ATROPELAMENTO COM VITIMA
+435;Atropelamento de pedestre;MOTOCICLETA - PEDESTRE
+436;Atropelamento de pedestre;ATROPELAMENTO PEDESTRE
+437;Atropelamento de pedestre;ATROPELAMENTO AUTO PASSEIO
+438;Atropelamento de pedestre;ATROPELAMENTO DE PEDESTRE MOTO
+439;Atropelamento de pedestre;COLISÃO COM 2 VITIMAS
+440;Atropelamento de pedestre;ATROPELAMENTO DE MOTO E PEDESTRE
+441;Colisão entre veículos;ÔNIBUS - AUTO
+442;Colisão entre veículos;COLISAO ENTRE DOIS VEICULOS
+443;Colisão entre veículos;VEICULO CHOCOU-SE COM A GARAGEM DO EDIFICIO
+444;Colisão entre veículos;OCORRENCIA OCORREU PELA MADRUGADA COM 2 (DUAS) VITIMAS FATAL
+445;Colisão entre veículos;COLISAO ENTRE ONIBUS- CAMINHÃO E AUTO COM VITIMA
+446;Colisão entre veículos;C/V ENTRE DOIS AUTOS
+447;Colisão entre veículos;VIATURA MOTO / CARRO DOS CORREIOS
+448;Capotamento/Tombamento;Capotamento com um veículo
+449;Colisão entre veículos;AUTO
+450;Colisão entre veículos;COLISÃO COM 1 VÍTIMA
+451;Colisão entre veículos;TRES AUTOS
+452;Colisão entre veículos;CONDUTOR PERDEU O CONTROLE E CAPOTOU O CARRO
+453;Colisão entre veículos;ONIBUS E BICICLETA
+454;Colisão entre veículos;auto colidiu com ciclista
+455;Colisão entre veículos;COLC/V SETAV GENERAL SAN MARTINS
+456;Colisão entre veículos;COLISÃO COM CICLISTA
+457;Colisão entre veículos;ATRPELAMENTO COM CILISTA
+458;Colisão entre veículos;ATROPELAMENTO
+459;Colisão entre veículos;MOTO E CICLISTA
+460;Colisão entre veículos;DOIS AUTO E CILISTA
+461;Colisão entre veículos;BICICLETA E AUTO
+462;Colisão entre veículos;MOTO E CLIOR
+463;Colisão entre veículos;VT 15 DA CTTU ESTA NO LOCAL
+464;Colisão entre veículos;MOTO CHINERAY
+465;Colisão entre veículos;ENTRE UMA CINQUENTINHA E UMA AUTO
+466;Colisão entre veículos;COLISÃO COM 1 VITIMA GM JOSUEL SANTANA QTH
+467;Colisão entre veículos;C/V ENTRE MOTO E AUTO
+468;Colisão entre veículos;COLISÃO COM 1 A ESPERA DO SAMU
+469;Colisão entre veículos;COLISÃO COM VITIMA SOCORRIDA PELO SAMU
+470;Colisão entre veículos;COLC/V-SET/BOA VIAGEM UM DOIS CONDUTOR ESTA COM SINTOMA DE EMBRIAQUEZ
+471;Colisão entre veículos;COLISÃO ENTRE UMA MOTO E UM VEICULO
+472;Colisão entre veículos;MOTO AUTO
+473;Colisão entre veículos;COLISÃO ENVONVENDO 2 MOTOS- COM VITIMA
+474;Capotamento/Tombamento;.C/V SET/SUB
+475;Não classificado;NÃO INFORMADO
+476;Colisão entre veículos;COLISÃO COM 1 VITIMA BT 09 QTH
+477;Colisão entre veículos;C/V
+478;Colisão entre veículos;SENT ILHA DO RETIRO / MOTO E AUTO
+479;Colisão entre veículos;2 AUTO E 2 MOTO
+480;Colisão entre veículos;VT DA CTTU 17 ESTA NO LOCAL 3 AUTO 3 UMA MOTO
+481;Colisão entre veículos;COLISÃO COM VÍTIMA.
+482;Colisão entre veículos;COLC/V SET.
+483;Colisão entre veículos;COLISÃO ENTRE DUAS MOTOCICLETAS
+484;Capotamento/Tombamento;MOTOQUEIRO TOMBOU NA VIA
+485;Colisão entre veículos;CHOQUE EM MURO
+486;Colisão entre veículos;COLCV SET/CD
+487;Colisão entre veículos;COLISAO DE DUAS MOTOS COM
+488;Colisão entre veículos;COLC/V SET/SUB
+489;Colisão entre veículos;01 MOTO- 01 KOMBI
+490;Colisão entre veículos;MOTO - AUTO
+491;Colisão entre veículos;AUTO-MOTO
+492;Colisão entre veículos;COL.-C/V-SET AFOGADOS
+493;Colisão entre veículos;AUTO E MOTO / MOTORISTA DO AUTO CON SINTOMAS DE EMBRIAGUES
+494;Colisão entre veículos;COLISAO ENTRE DUAS MOTOS COM FERIDOS
+495;Colisão entre veículos;COLC/VSET/CD
+496;Colisão entre veículos;COLC/V SET/CAXANGA
+497;Colisão entre veículos;COLISÃO COM 1 VITIMA A ESPERA DA SAMU
+498;Colisão entre veículos;COLC/V GM WILLAMES VT 03 JA NO LOCAL
+499;Colisão entre veículos;MOTO E AUTO / VT 16 NO QTH
+500;Colisão entre veículos;COLISAO DE DUAS MOTOS COM 1 VITIMA
+501;Colisão entre veículos;01 MOTO 01 AUTO PREFEITURA (VT-07 NO LOCAL)
+502;Colisão entre veículos;CHOQUE
+503;Colisão entre veículos;COM TRÊS VÍTIMAS
+504;Colisão entre veículos;COLISÃO ENTRE AUTO E MOTO COM VITIMA SENTIDO CENTRO
+505;Colisão entre veículos;DOIS ONIBUS
+506;Colisão entre veículos;COLISÃO COM VITIMA JÁ SOCORRIDA PELO SAMU
+507;Não classificado;CIDADÃO QUE PEGAVA CARONA EM UM ONIBUS CAIU NA VIA
+508;Atropelamento de pedestre;ATROPELAMENTO DE PEDESTRE POR UMA MOTO
+509;Atropelamento de pedestre;DOIS AUTO E UM ATROPELAMENTO
+510;Atropelamento de pedestre;COLC/V-SET/JABOATÃO
+511;Atropelamento de pedestre;SEIS VEÍCULOS / DUAS PESSOAS ATROPELADAS
+512;Atropelamento de pedestre;AUTO - PEDESTRE
+513;Atropelamento de pedestre;ONIBUS ATROPELOU UM PEDESTRE
+514;Atropelamento de pedestre;PGS2376- SPIN
+515;Atropelamento de pedestre;ATROPELAMENTO VITIMA A ESPERA DO SAMU
+516;Atropelamento de pedestre;ATROPELAMENTO DE PEDESTRE VITIMA A ESPERA DO SAMU
+517;Atropelamento de pedestre;COM UMA VÍTIMA.
+518;Atropelamento de pedestre;ATROPÉLAMENTO ENTRE AUTO E PEDESTRE
+519;Atropelamento de pedestre;ATROPELAMENTO COM UMA VITIMA JA SOCORRIDA
+520;Colisão entre veículos;01 AUTOS
+521;Colisão entre veículos;CHOQUE DE UM AUTO CONTRA UM MURO
+522;Colisão entre veículos;COLISAO DE ONIBUS E AUTO S/V
+523;Colisão entre veículos;COLISAO ENTRE UM AUTP E CAMINHAO
+524;Colisão entre veículos;CHOQUE DE UM CARRO CONTRA O MURO DA RESIDENCIA ANTIGINDO UMA MOTO QUE ESTAVA NA GARAGEM
+525;Colisão entre veículos;AUTO CARROÇA
+526;Colisão entre veículos;VEICULO CHOCOU-SE COM UM MURO
+527;Colisão entre veículos;COLISAO ENTRE UM AUTO E UM CAMINHAO
+528;Colisão entre veículos;COLISÃO COM VÍTIMA ENTRE DOIS AUTOS SENTIDO AEROPORTO
+529;Colisão entre veículos;COLISÃO ENTRE 3 AUTO
+530;Colisão entre veículos;C/V ENTRE UM MOTO E UMA BICICLETA
+531;Colisão entre veículos;ONIBUS E CICLISTA
+532;Colisão entre veículos;MOTO X BICICLETA
+533;Colisão entre veículos;AUTO E CHINERAY
+534;Colisão entre veículos;COLISÃO ENTRE MOTO E 50 CILINDRADAS
+535;Colisão entre veículos;CINQUENTINHA E MOTO
+536;Colisão entre veículos;AUTO E CIQUENTINHA
+537;Colisão entre veículos;COLISAO ENTRE UM AUTO E UMA 50CC
+538;Colisão entre veículos;SHIINERAY E TAXI
+539;Colisão entre veículos;COL-S/C JA SOCORRIDA SET/CD
+540;Colisão entre veículos;COLISÃO ENTRE ONIBUS E MOTO
+541;Colisão entre veículos;01 CAMINHÃO- 01 MOTO
+542;Colisão entre veículos;COLISÃO ENTRE UMA MOTO E TAXI
+543;Colisão entre veículos;VIATUARA / MOTO
+544;Colisão entre veículos;EM FRENTE AO MOTEL TURQUESA
+545;Colisão entre veículos;COLC/V SET/CD
+546;Colisão entre veículos;COLISÃO ENTRE AUTO E MOTO COM VÍTIMA NO CRUZAMENTO
+547;Colisão entre veículos;COLISÃO ENTRE UMA MOTO E UM CARRO
+548;Não classificado;AUTO MOTO
+549;Colisão entre veículos;OLISAO DE MOTO E AUTO COM UMA VITIMA
+550;Colisão entre veículos;2 MOTOS COM VÍTIMAS
+551;Colisão entre veículos;COM VT DA POLICIA E MOTO
+552;Colisão entre veículos;COLISÃO COM 1 VITIMA SOCORRIDA PELO SUB JAIR BARROS QTH
+553;Colisão entre veículos;ÔNIBUS E MOTO
+554;Colisão entre veículos;COLC/V SET/AV NORTE
+555;Colisão entre veículos;COLISÃO ENTRE AUTO E MOTO COM 1 VÍTIMA
+556;Colisão entre veículos;ONIBUNS VERA CRUZ E MOTO
+557;Colisão entre veículos;COLISÃO ENTRE DUAS MOTOS E DOIS AUTOS
+558;Colisão entre veículos;COLISAOO ENTRE AUTO E MOTO
+559;Colisão entre veículos;COLISAO ENTRE UM ONIBUS E UMA MOTO A VITIMA FOI SOCORRIDA
+560;Colisão entre veículos;COLC/V GM LUCIO E RENATA JA NO LOCAL NA VT 15
+561;Colisão entre veículos;COLISÃO ENTRE AUTO E MOTO COM UMA VÍTIMA
+562;Colisão entre veículos;COLC/V SET AFOGADOS
+563;Colisão entre veículos;DOIS AUTOS E UMA MOTO
+564;Colisão entre veículos;MOTO
+565;Colisão entre veículos;COLISÃO ENTRE ONIBUS E MOTO COM VITIMA
+566;Colisão entre veículos;COLISÃO COM VITIMAS-GM FIDELIX FAZENDO O BO
+567;Colisão entre veículos;MOTO E CAMINHÃO BAU DE COR AZUL
+568;Colisão entre veículos;COLISAO ENTRE UM AUTO E UMA MOTO COM VITIMA FATAL
+569;Colisão entre veículos;COLISAO DE MOTO E AUTOS COM UMA VITIMA
+570;Colisão entre veículos;COLISÃO COM 2 VITIMAS SOCORRIDAS PELOS BOMBEIROS
+571;Colisão entre veículos;COLC/V-SET- CAMARAGIBE
+572;Colisão entre veículos;DUAS MOTOCICLETAS
+573;Colisão entre veículos;01 AUTO 02 MOTOS
+574;Não classificado;MOTO DESLIZOU NO OLEO / OLEO NA PISTA
+575;Colisão entre veículos;COLISÃO COM VITIMA-CTTU NO LOCAL VT 14
+576;Colisão entre veículos;COLISÃO COM 1 VITIMA A ESPERA DOS BOMBEIROS
+577;Colisão entre veículos;COM DUAS VÍTIMAS
+578;Colisão entre veículos;COLISAO DE DUAS MOTOS COM TRES VITIMAS
+579;Colisão entre veículos;COLC/V-SUB CD
+580;Colisão entre veículos;COLC/V-SET SUB
+581;Colisão entre veículos;COLISÃO COM 1 VITIMA VT 08 QTH
+582;Colisão entre veículos;COLC/V SET/DERBY
+583;Colisão entre veículos;COLISÃO COM VÍTIMA ENVOLVENDO AUTO E MOTOCICLETA
+584;Colisão entre veículos;MOTO E COLETIVO
+585;Colisão entre veículos;COLISÃO ENTRE DOIS AUTOS E MOTO
+586;Colisão entre veículos;AONIBUS E MOTO
+587;Colisão entre veículos;ENTRE UMA AUTO E UMA MOTO
+588;Colisão entre veículos;COLC/V-SETBOA VIAGEM
+589;Colisão entre veículos;COLISÃO COM VITIMA-GM WELINTON JÁ ESTA FAZENDO BO
+590;Colisão entre veículos;CAMINHÃO E ONIBUS CAXANGA
+591;Atropelamento de pedestre;AUTO -PEDESTRE
+592;Atropelamento de pedestre;MOTO E CRIANÇA
+593;Atropelamento de pedestre;ONIBUS ATROPELOU UMPEDESTRE-SAMU ACIONADO
+594;Atropelamento de pedestre;ATROPELAMENTO VITIMA JÁ SOCORRIDA-ONIBUS
+595;Atropelamento de pedestre;MOTO - PEDESTRE
+596;Atropelamento de pedestre;ATROPELAMENTO COM UMA VITIMA SOCORRIDA PELOS BOMBEIROS OBS MOTOCICLISTA ENCONTRA SE COM SINTOMAS D
+597;Atropelamento de pedestre;ATROPELAMENTO ENVOLVENDO MOTOCICLETA COM VÍTIMA BOMBEIROS NO LOCAL
+598;Atropelamento de pedestre;ATROPELAMENTO SOBRE FAIXA DE PEDESTRE
+599;Atropelamento de pedestre;KJR1042
+600;Atropelamento de pedestre;VÍTIMA JÁ SOCORRIDA.
+601;Atropelamento de pedestre;ATROPELAMENTO ENVOLVENDO ÕNIBUS E PEDESTRE
+602;Atropelamento de pedestre;ONIBUS DA EMP BORBOREMA
+603;Atropelamento de pedestre;ATROPELAMENTO ENVOLVENDO TAXIE PEDESTRE
+604;Atropelamento de pedestre;CAMINHÃO / BT EUDES E ROMILDO NO QTH MT 06 E 012
+605;Atropelamento de pedestre;ATROPELAMENTO PEDESTRE SUSPEITO DE EMBREAGUÊS
+606;Colisão entre veículos;COLISÃO COM 1 VITIMA BT ADILSON QTH
+607;Colisão entre veículos;2 AUTOS
+608;Colisão entre veículos;COLISÃO ENTRE DOIS AUTOS COM 1 VÍTIMA
+609;Colisão entre veículos;COLISAO DE TRES AUTOS S/V
+610;Capotamento/Tombamento;CAPOTAMENTO DE AUTO
+611;Colisão entre veículos;UM CAMINHÃO E TRES AUTOS / VT 013 GM LUCIO NO QTH
+612;Colisão entre veículos;CONDUTOR PERDEU O CONTROLE E SE CHOCOU NO MEIO FIO DA VIA
+613;Colisão entre veículos;DOIS AUTOS / COLISÃO E CAPOTAMENTO
+614;Colisão entre veículos;COLISÃO ENTRE UMA VT DA PM E UM CARRO- CARRO SAIU DO LOCAL
+615;Capotamento/Tombamento;VEICULO COLIDIO COM OUTRO VEÍCULO E TOMBOU NA VIA
+616;Colisão entre veículos;COLISÃO ENTRE 3 AUTOS
+617;Colisão entre veículos;CONDUTORA SE CHOCOU CONTRA O POSTE
+618;Colisão entre veículos;CONDUTOR TEVE UMA CONVULSÃO NO VOLANTE VINDO A OBITO- CONFIRMADO BOMBEIRO QUE ATENDEU NO LOCAL DO FATO
+619;Colisão entre veículos;CHOQUE DE AUTO EM GELO BAIANO
+620;Colisão entre veículos;COLISÃO COM 1 VITIMA ENTRE CICLISTA E AUTO PASSEIO
+621;Atropelamento de pedestre;BICICLETA COM AUTO
+622;Colisão entre veículos;COLISAO DE MOTO E BICICLETA COM DUAS VITIMAS
+623;Atropelamento de pedestre;ATROPELAMENTO DE CICLISTA
+624;Colisão entre veículos;COLISÃO ENTRE AUTO E 50 CILINDRADAS
+625;Colisão entre veículos;DUAS CIQUENTINHA
+626;Colisão entre veículos;COLISÃO ENTRE UM ONIBUS E UMA CINQUENTINHA- C/V
+627;Colisão entre veículos;COLISAO DE ONIBUS E CINQUENTINHA COM DUAS VITIMAS
+628;Não classificado;UMA CIQUENTINHA VITIMA EMBREAGADA
+629;Colisão entre veículos;COLISÃO COM VITIMA- DOIS AUTOS E UMA MOTO
+630;Colisão entre veículos;COLISAO ENTRE AUTO E MOTOCICLETA
+631;Colisão entre veículos;COLCOM UMA VITIMA JA SOCORRIDA -SET/BR
+632;Colisão entre veículos;COLISÃO ENTRE AUTO E MOTO COM DUAS VÍTIMAS
+633;Colisão entre veículos;COLISÃO ENVOLVENDO 2AUTOS E UMA MOTO
+634;Colisão entre veículos;COLISÃO COM VITIMA-SOCORRIDA PELO SAMU
+635;Colisão entre veículos;CARRO E MOTO
+636;Colisão entre veículos;AUTO E MOTOCICLETA
+637;Colisão entre veículos;COLCOM UMA VITIMA
+638;Colisão entre veículos;COLISÃO COM VÍTIMA- AUTO E MOTO
+639;Colisão entre veículos;COLISÃO ENTRE AUTO X MOTOCICLETA COM UMA VÍTIMA JÁ SOCORRIDA
+640;Colisão entre veículos;COL COM DUAS VITIMA /SET/CD
+641;Colisão entre veículos;COLISÃO COM DUAS VÍTIMAS ENTRE DUAS MOTOCICLETAS
+642;Colisão entre veículos;COLISÃO ENTRE DUAS MOTOS- C/V
+643;Colisão entre veículos;COLISAO AUTO E MOTO COM UMA VITIMA
+644;Colisão entre veículos;MOTO E ONIBUS GLOBO
+645;Colisão entre veículos;COLISAO DE DUAS MOTOCILETAS
+646;Colisão entre veículos;C/V ENTRE MOTO E CAMINHÃO
+647;Colisão entre veículos;COLISAO ENTRE MOTO E CAMINHAO
+648;Colisão entre veículos;AMBULANCIA E MOTO
+649;Colisão entre veículos;COLISAO DE ONIBUS E MOTO COM UMA VITIMA
+650;Colisão entre veículos;DUAS MOTOS E ONIBUS
+651;Colisão entre veículos;MTO E AUTO
+652;Colisão entre veículos;COLISÃO COM VITIMA -ONIBUS E MOTO
+653;Colisão entre veículos;COLISÃO COM VITIMA -TAXI E MOTO
+654;Colisão entre veículos;COLISÃO ENTRE MOYOCICLETA E AUTO
+655;Colisão entre veículos;ONIBUS NE MOTO
+656;Colisão entre veículos;COLISÃO ENTRE UMA MOTO E UM ÔNIBUS
+657;Colisão entre veículos;COLISÃO COM VITIMA AUTO-PASSEIO E MOTO
+658;Colisão entre veículos;COLISÃO DUAS MOTOS
+659;Colisão entre veículos;COLISÃO COM VITIMA -
+660;Colisão entre veículos;COLISÃO ENTRE DUA MOTOS E UM AUTO
+661;Colisão entre veículos;COLISÃO COM VITIMAS-AUTO-PASSEIO E MOTO
+662;Colisão entre veículos;COLISÃO ENTRE UMA MOTO E UM ONIBUS
+663;Colisão entre veículos;KOMBI DA POLICIA E MOTO
+664;Colisão entre veículos;COLISÃO ENTRE AUTO E MOTOCICLETA COM VÍTIMA NO AGUARDO DO SOCORRO
+665;Colisão entre veículos;COLISÃO ENTRE AUTO E MOTOCICLETA COM VÍTIMA - BOMBEIROS NO LOCAL
+666;Colisão entre veículos;COLISAO ENTRE ONIBUS E MOTO
+667;Colisão entre veículos;COLISÃO COM VITIMA ENTRE DUAS MOTOS
+668;Colisão entre veículos;COLISAO NTRE MOTO E CAMINHAO
+669;Colisão entre veículos;COL C/V SCD
+670;Colisão entre veículos;S/V ENTRE AUTO E MOTO
+671;Colisão entre veículos;COLISAO DE DOIS AUTOS E UMA MOTO COM UMA VITIMA
+672;Colisão entre veículos;CHOQUE DE MOTO COM ARVORE
+673;Colisão entre veículos;COLISÃO COM 1 VITIMA A ESPERA DO SAM
+674;Colisão entre veículos;AO LADO DIREITO DA PRAÇA DE CASA FORTE
+675;Colisão entre veículos;COLISÃO COM VÍTIMA NO AGUARDO DO SOCORRO
+676;Colisão entre veículos;COLISÃO ENVOLVENDO AUTO E MOTO
+677;Colisão entre veículos;COLISAO DE CAMINHAO E MOTO COM DUAS VITIMAS
+678;Colisão entre veículos;MOTO - ONIBUS
+679;Atropelamento de pedestre;CAMINHÃO ATROPELOU PEDESTRE- VÍTIMA FATAL
+680;Atropelamento de animal;
+681;Colisão entre veículos;COLISÃO ENTRE CAMINHÃO E MOTOQUEIRO COM VITIMA FATAL
+682;Colisão entre veículos;COLISÃO ENTRE DOIS ONIBUS EMBAIXO DA PASSARELA DA HERCULANO BANDEIRA COM 9 VITIMAS- SAMU NO QTH
+683;Colisão entre veículos;01 ONIBUS E 01 AUTO
+684;Atropelamento de pedestre;MOTO E PEDESTRE OBS: INSPETOR FERNANDES NO LOCAL
+685;Atropelamento de pedestre;AUTO PASSEIO ATROPELOU PEDESTRE
+686;Atropelamento de pedestre;VEICULO CHOCOU -SE COM O MURO DE UMA RESIDENCIA ATROPELOU UMA CRIANÇA
+687;Atropelamento de pedestre;PEDESTRE E CAMINHÃO *******OBS: VT 13 ESTA NO LOCAL
+688;Atropelamento de pedestre;COLC/V SET/SUB
+689;Atropelamento de pedestre;ATROPELAMENTO DE IDOSO SOCORRIDO PELO SAMU
+690;Atropelamento de pedestre;ATROPELAMENTO COM UMA VITIMA GM ERONILDO NO LOCAL
+691;Atropelamento de pedestre;VEÍCULO ATROPELOU MANIFESTANTE QUE FOI SOCORRIDA PELO SAMU
+692;Atropelamento de pedestre;BTS JOÃO PAULO E ADILSON RAMOS NO LOCAL
+693;Colisão entre veículos;"COLISÃO ENTRE QUATRO AUTO; SEGUINTE DE UM CAPOTAMENTO DE UM DOS VEICULOS"
+694;Colisão entre veículos;2AUTOS
+695;Colisão entre veículos;CHOQUEDEVEÍCULOCOMMURO
+696;Colisão entre veículos;"COLISÃOCOMVITIMA;ONIBUSEAUTO-PASSEIO"
+697;Colisão entre veículos;COLISAODEMOTOEDOISAUTOS/V
+698;Colisão entre veículos;"PERSEGUIÇÃODAPMPORVEICULOROUBADO;TERMINAEMCOLISÃODE5AUTO;C/V"
+699;Colisão entre veículos;CONDUTORPERDEUOCONTROLEDOVEÍCULOESECHOCOUCONTRAAMARGEMDOCANAL
+700;Colisão entre veículos;COLISÃOCOM1VITIMA
+701;Colisão entre veículos;"COLISÃOENTREONIBUSDATRANCOLEAUTOPASSEIO;C/V"
+702;Colisão entre veículos;ONIBUSEAUTO
+703;Colisão entre veículos;02AUTOS
+704;Colisão entre veículos;DOISAUTO
+705;Colisão entre veículos;COLISAOENTREONIBUSEAUTO
+706;Colisão entre veículos;CHOQUEDEAUTOCOMPOSTE
+707;Colisão entre veículos;COLISÃOCOMVITIMA
+708;Colisão entre veículos;COLISAOENTREUMONIBUSEUMAUTO
+709;Colisão entre veículos;COLISÃOENTREDOISAUTOSCOMVÍTIMA
+710;Colisão entre veículos;COLISAOENTREDOISAUTOS
+711;Colisão entre veículos;COLISAOENTREDOISAUTOC/V
+712;Colisão entre veículos;COLISÃOENTREDOISAUTOS/V
+713;Colisão entre veículos;COLISÃOCOMVÍTIMA
+714;Colisão entre veículos;ONIBUSMETROPOLITANAETAXI
+715;Colisão entre veículos;COLISÃOENTREUMAUTOPASSEIOCOMUMONIBUS
+716;Colisão entre veículos;COLISÃOCOM1VITIMASOCORRIDAPELOSAMU
+717;Colisão entre veículos;COLISÃOSEGUIDADECHOQUEEMPOSTEDACELPE
+718;Colisão entre veículos;VEICULOCHOCOU-SECOMMURO
+719;Colisão entre veículos;VEICULOCHOCOU-SECOMPOSTEDEILUMINAÇÃOPUBLICA
+720;Colisão entre veículos;"COLISÃO ENTRE AUTO E CICLISTA; C/V"
+721;Atropelamento de pedestre;"VEICULO COLIDIO COM CICLISTA; ONDE A VITIMA JA FOI SOCORRIDA"
+722;Atropelamento de pedestre;ATROPELAMENTO DE MOTO COM UM CICLISTA
+723;Colisão entre veículos;COLISÃO COM VITIMA A ESPERA DO SAMU ENTRE CICLISTA E AUTO
+724;Colisão entre veículos;COLISÃO ENTRE UMA MOTO E UMA BICICLETA COM DUAS VITIMAS JÁ SOCORRIDA PELO SAMU ORIENTADOR NO LOCAL
+725;Colisão entre veículos;"SEGUNDO INFORMAÇÕES DE POPULARES; O CONDUTOR DA MOTOCICLETA AVANÇOU O SINAL VERMELHO E COLIDIU NO ÔNIBUS DA CRT."
+726;Colisão entre veículos;01 AUTO 01 CINQUENTINHA
+727;Colisão entre veículos;"MOTO CHOCOU-SE CONTRA A CALÇADA; COM VITIMA"
+728;Colisão entre veículos;COL.C/V
+729;Colisão entre veículos;COLISAO ENTRE AUTO E DUAS MOTOS
+730;Não classificado;COM UMA VÍTIMA.
+731;Colisão entre veículos;COLISAO COM 2 VITIMAS ENTRE AUTO E MOTO
+732;Colisão entre veículos;COLISAO DE DUAS MOTOS COM 2 VITIMAS
+733;Colisão entre veículos;MOTO CHOCOU-SE CONTRA PLACA DE MADEIRA
+734;Não classificado;COLISAO ENTRE ONIBUS E MOTO
+735;Não classificado;CAMINHAO E MOTO
+736;Colisão entre veículos;COM UMA VÍTIMA. (GM'S JOSENILSON FARIAS E BRITO PONTO FIXO NO LOCAL)
+737;Colisão entre veículos;"COL.C/V;SET.CD"
+738;Colisão entre veículos;COLISAO CAMINHAO E MOTO
+739;Colisão entre veículos;COLISAO DE AUTO E MOTO S/V
+740;Capotamento/Tombamento;"COLISÃO ENTRE AUTO E MOTO; SEGUIDA DE UM CAPOTAMENTO. IC NO LOCAL"
+741;Colisão entre veículos;"COLISÃO ENTRE UMA AMBULANCIA; UM AUTO E UMA MOTO C/V"
+742;Colisão entre veículos;DOIS AUTO E UMA MOTO OBS: VT 12 DA CTTU ESTA NO LOCAL
+743;Colisão entre veículos;ONIBUS PEDROSA E MOTO
+744;Colisão entre veículos;"01 AUTO 01 MOTO (FOI PASSADO AO CONDUTOR A ENTRAR EM CONTATO COM O 190; PARA GERAR O DELTA). ("
+745;Colisão entre veículos;GOL VERMELHO E MOTO
+746;Colisão entre veículos;ENTREUM AUTO E UMA MOTO
+747;Colisão entre veículos;COLISAO ENTRE MOTO E VAM
+748;Colisão entre veículos;COLISAO DE AUTO E MOTO COM VITIMA
+749;Colisão entre veículos;AUTO E MOTOCICLETA COM VÍTIMA
+750;Colisão entre veículos;MOTO COLIDIU COM O PRISMA DE CONCRETO
+751;Colisão entre veículos;COLISAO ENTRE DOIS AUTOS E UMA MOTO COM VITIMA
+752;Colisão entre veículos;COL.C//V
+753;Colisão entre veículos;ENTRE UMA VIATURA DA POLICIA CIVIL E UMA MOTO
+754;Colisão entre veículos;ONIBUS X MOTOCICLETA
+755;Colisão entre veículos;ENTRE ÔNIBUS E MOTO.
+756;Colisão entre veículos;"COLISÃO ENTRE DUAS MOTOS; SENDO UMA OFICIAL DA PMPE."
+757;Colisão entre veículos;TAXI E MOTO
+758;Colisão entre veículos;COLISÃO COM VÍTIMA/ SENTIDO CAMARAGIBE/ SAMU NO LOCAL
+759;Colisão entre veículos;COLISÃO ENTRE DUAS MOTOS COM VITIMA
+760;Colisão entre veículos;ENTRE UM VEICULO E UMA MOTO
+761;Colisão entre veículos;UM VEICULO E UMA MOTO
+762;Colisão entre veículos;ONIBUS METROPOLITANA E MOTO
+763;Colisão entre veículos;AUTO E MOTO AUTO SE EVADIU
+764;Colisão entre veículos;"COL.C/V;SET SUB"
+765;Colisão entre veículos;02 AUTO 01 MOTO
+766;Colisão entre veículos;COLISAO MOTO E TAXI COM UMA VITIMA
+767;Colisão entre veículos;MOTO SE CHOCOU COM FERRAGENS DE PALCO QUE SENDO MONTADO PARACARNAVAL
+768;Colisão entre veículos;COLISAO DE MOTO E AUTO S/V
+769;Colisão entre veículos;COLISAO COM VITIMA ENTRE MOTO E ÔNIBUS
+770;Colisão entre veículos;"COLISAO ENTRE AUTO; ONIBUS E MOTO"
+771;Colisão entre veículos;ENTRE UM ALTO E UMA MOTO
+772;Atropelamento de pedestre;VEICULO SOBE CALÇADA E PEGA PEDESTRE QUEBRANDO MURO DO POSTO
+773;Atropelamento de pedestre;atropelamento seguido de capotamento com vitima
+774;Atropelamento de pedestre;VEÍCULO SIENA ATROPELOU UMA SENHORA E UMA CRIANÇA
+775;Atropelamento de pedestre;ATROPELAMENTO COM 1 VITIMA
+776;Atropelamento de pedestre;ATROPELAMENTO BOMBEIRO NO LOCAL
+777;Atropelamento de pedestre;VITIMA SOCORRIDA PELO SAMU
+778;Atropelamento de pedestre;ATROPELAMENTO DE MOTO COM UMA VITIMA
+779;Atropelamento de pedestre;"MOTO E PEDESTRE; VITIMAS JA SOCORRIDAS"
+780;Atropelamento de pedestre;ÔNIBUS ATROPELOU PEDESTRE
+781;Atropelamento de pedestre;PEDESTRE E MOTO
+782;Colisão entre veículos;AUTO E CAMINHAO
+783;Colisão entre veículos;COLISÃO ENTRE QUATRO AUTO C/V
+784;Colisão entre veículos;"COLISÃO ENTRE DOIS AUTO S/V; OS DOIS CONDUTORES ESTÃO EMBRIAGADO"
+785;Colisão entre veículos;"DOIS AUTO; VIATURA 13 JA ESTAR NO LOCAL"
+786;Colisão entre veículos;COLISÃO ENTRE DOIS AUTOS S/V
+787;Colisão entre veículos;AUTO (CELTA PRATA CHOCOU-SE NO POSTE)
+788;Colisão entre veículos;UM AUTO E UMA MOTO // SITUAÇÃO SOLUCIONADA NO LOCAL
+789;Colisão entre veículos;AUTO E ÔNIBUS
+790;Colisão entre veículos;VEICULO SE CHOCOU COM PREDIO
+791;Colisão entre veículos;COLISAO ENTRE DOIS AUTOS C/V
+792;Não classificado;DOIS AUTO
+793;Colisão entre veículos;COLISÃO ENTRE DOIS AUTOS COM VÍTIMAS
+794;Colisão entre veículos;DOIS AUTOS C/ VITIMA
+795;Colisão entre veículos;COLISAO ENTRE DOIS AUTO C/V
+796;Colisão entre veículos;ENTRE UMONIBUS E UMA MOTO
+797;Colisão entre veículos;02 AUTOS
+798;Colisão entre veículos;COLISÃO COM 2 VITIMAS ENTRE CICLISTA E AUTO
+799;Colisão entre veículos;ATROPELAMENTO DE CICLISTA
+800;Colisão entre veículos;01MOTO 01 CINQUENTINHA
+801;Colisão entre veículos;MOTOCICLETA 50CC SE ENVOLVEU EM CHOQUE COM ÓBITO
+802;Atropelamento de pedestre;ATROPELAMENTO COM DUAS VITIMAS A ESPERA DO SAMU
+803;Colisão entre veículos;"COLISAO ENTRE AUTO E MOTO DOS ORIENTADORES;NA INTEGRAÇÃO DA CAXANGA SENTIDO CAMARAGIBE"
+804;Colisão entre veículos;COLISÃO COM VÍTIMA/ SAMU NO LOCAL
+805;Colisão entre veículos;COLISÃO ENTRE MOTO E ÔNIBUS COM VÍTIMA
+806;Colisão entre veículos;COL.C/V GM GRACIANO VT 13 JA NO LOCAL
+807;Colisão entre veículos;COL.C/V SET.CD
+808;Colisão entre veículos;MOTO CHOCOU-SE EM POSTE
+809;Colisão entre veículos;COLISÃO ENTRE MOTO E ONIBUS DA BORBOREMA C/V
+810;Colisão entre veículos;COLISAO ENTRE DUAS MOTO
+811;Colisão entre veículos;COLISAO DE TAXI E MOTO COM UMA VITIMA
+812;Colisão entre veículos;ENRE UM AUTO E UMA MOTO
+813;Colisão entre veículos;COLISÃO ENTRE DUAS MOTOS C/V
+814;Colisão entre veículos;COLISÃO ENTRE KOMBI E MOTO C/V
+815;Colisão entre veículos;COLISÃO ENTRE UM ÔNIBUS E UM MOTO 50 CC
+816;Colisão entre veículos;AUTO E MOPTO
+817;Atropelamento de pedestre;COLISAO SEGUIDA DE ATROPELAMENTO COM DUAS VITIMAS
+818;Colisão entre veículos;COLISAO DE MOTO E TAXI COM UMA VITIMA
+819;Colisão entre veículos;colisão com vitima sendo atendida pelos bombeiros
+820;Colisão entre veículos;"COLISÃO ENTRE AUTO E MOTO C/V; AS VITIMAS ESTÃO NA FAIXA DO BRT"
+821;Colisão entre veículos;MOTO / CAMINHJÃO E AUTO
+822;Colisão entre veículos;01MOTO 01 AUTO
+823;Colisão entre veículos;CCOLISSÃO COM UMA VITIMA
+824;Colisão entre veículos;COLISAO ENTRA AUTO E MOTO
+825;Colisão entre veículos;COLISÃO ENTRE MOTO E ÔNIBUS
+826;Colisão entre veículos;COLISÃO DE PERCURSO
+827;Colisão entre veículos;COLISAO ENTRE AUTOS E MOTOS
+828;Colisão entre veículos;COLISAO ENTRE CARRO E UMA MOTO C/V
+829;Colisão entre veículos;COLISÃO COM UMA VITIMA SOCORRIDA PELO SAMU
+830;Colisão entre veículos;"COL.C/V SET.BOA VIAGEM ;NA PISTA LOCAL"
+831;Colisão entre veículos;AUTO E MOTOICLETA COM VÍTIMA
+832;Colisão entre veículos;COLISÃO COM 1 VITIMA SOCORRIDA PELO SAMU CONDUTOR DO AUTO PASSEIO EVADIU SE DO LOCAL
+833;Colisão entre veículos;ENTRE UMAUTO E UMAMOTO
+834;Colisão entre veículos;MOTO / CAMINHAO / AUTO
+835;Colisão entre veículos;MOTO CHOCOU -SE COM UMA ÁRVORE ( SEGUNDO INFORMAÇÃO VÍTIMA FATL
+836;Colisão entre veículos;COLISÃO COM VITIMAS SOCORRIDAS PELO SAMU
+837;Colisão entre veículos;"COLISÃO ENTRE AUTO E MOTO; S/V"
+838;Colisão entre veículos;ANTES DA DELEGACIA DO VASCO DA GAMA
+839;Colisão entre veículos;COLISAO ENTRE UMA CARRETA E UMA MOTO
+840;Atropelamento de animal;"01 CARROÇA TRACÃO ANIMAL; 01 ONIBUS"
+841;Colisão entre veículos;CAMINHÃO ESTACIONADO NO MEIO DA VIA. SOB LOMBADA ELETRONICA.
+842;Colisão entre veículos;COLISÃO ENTRE DOIS ONIBUS E UM CAMINHÃO
+843;Colisão entre veículos;COLISÃO COM VITIMA JÁ SOCORRIDA
+844;Atropelamento de animal;CACHORRO
+845;Atropelamento de pedestre;ATROPELAMENTO / PEDESTRE
+846;Atropelamento de pedestre;COMEÇO DOS CAMAROTES DO GALO (FAIXA DOS ÔNIBUS)
+847;Atropelamento de pedestre;ATR.C/V
+848;Atropelamento de pedestre;MOTO SHINERAY E PEDESTRE
+849;Atropelamento de pedestre;COLISÃO COM 1 VITIMA SOCORRIDA PELO SAMU VT 08 QTH
+850;Atropelamento de pedestre;"MOTO E PEDESTRE C/V;"
+851;Atropelamento de pedestre;COLISÃO EM SEGUIDA DE ATROPELAMENTO VITIMAS A ESPERA DO SAMU
+852;Atropelamento de pedestre;COLISÃO SEGUIDO DE ATROPELAMENTO DE PEDESTRE
+853;Colisão entre veículos;COLISAO DE DOIS ONIBUS E DOIS AUTOS S/V
+854;Colisão entre veículos;ENTRE DOIS AUTOS
+855;Colisão entre veículos;VEICULO SE CHOCOU COM POSTE
+856;Colisão entre veículos;COLISÃO ENTRE UM TÁXI E CARRO DO IML
+857;Colisão entre veículos;"COLISÃO COM VITIMAS ;JA SOCORRIDA ;BOMBEIROS"
+858;Colisão entre veículos;"""COLISÃO COM CONDUTOR ENCARCERADO NO VEICULO"
+859;Colisão entre veículos;"COLISÃO COM VITIMAS;BOMBEIROS ACIONADOS"
+860;Colisão entre veículos;"COLISÃO ENTRE DOIS AUTO C/V; UM DOS CARROS CAPOTOU NA VIA;"
+861;Colisão entre veículos;COLISAO DE DOIS AUTOS S/V
+862;Colisão entre veículos;SEM VÍTIMAS.
+863;Colisão entre veículos;COLISÃO ENTRE DOIS AUTOS SEM VÍTIMAS
+864;Colisão entre veículos;PDT1274 TAXI PCE7341 CAMINHAO EMLURB
+865;Colisão entre veículos;VEICULO CHOCOU-SE COM CAVALO ( HOMEM NO CAVALO )
+866;Capotamento/Tombamento;VAN PERDEU O CONTROLE E CAPOTOU
+867;Colisão entre veículos;AUTO E CICLISTA
+868;Colisão entre veículos;CICLISTA SOCORRIDO PELO SAMU
+869;Colisão entre veículos;"COL.C/V;SET.SUB"
+870;Colisão entre veículos;MOTO E SHINERAY
+871;Colisão entre veículos;COLISÃO ENTRE AUTO X BICICLETA
+872;Colisão entre veículos;01 MOTO 01 BICICLETA (VT-05 NO LOCAL).
+873;Colisão entre veículos;CHOQUE COM VITIMA FATAL
+874;Colisão entre veículos;COLISÃO COM 2 VITIMAS SOCORRIDOS PELOS BOMBEIROS
+875;Colisão entre veículos;AUTO + MOTO+ ONIBUS
+876;Colisão entre veículos;COLISAO ENTRE UM ONIBUS E MOTO
+877;Colisão entre veículos;COLISÃO COM DUAS VITIMAS
+878;Colisão entre veículos;COLISAO DE MOTO E AUTO E BICICLETA COM UMA VITIMA
+879;Colisão entre veículos;COLISAO ENTRE ONIBUS E UMA MOTOCICLETA
+880;Colisão entre veículos;COLISÃO AUTO E MOTO C/V
+881;Colisão entre veículos;"COLISÃO COM VITIMA;AGUARDANDO SAMU"
+882;Colisão entre veículos;ENTRE UM AUTO E UMAMOTO
+883;Colisão entre veículos;ENTRE AUTO E MOTOICLETA COM VÍTIMA
+884;Colisão entre veículos;COLISAO ENTRE DUAS MOTOS
+885;Colisão entre veículos;"COL.C/V;SEDO QUE OS CONDUTORES DESCARECTERIZADA; SET/OLINDA"
+886;Colisão entre veículos;COLISAO DE MOTO E KOMBI COM UMA VITIMA
+887;Colisão entre veículos;COM UMA VÍTIMAS.
+888;Colisão entre veículos;COLISAO DE MOTO COM UMA VITIMA
+889;Colisão entre veículos;COLISAO DE AUTO E MOTO COM UAM VITIMA
+890;Colisão entre veículos;COLISÃO ENTRE S10 E TITAN FAN COM VÍTIMA
+891;Colisão entre veículos;COLISAÕ COM VITIMA
+892;Colisão entre veículos;AV SUL
+893;Colisão entre veículos;ONIBUS GLOBO E MOTO
+894;Colisão entre veículos;COLISAO ENTRE CARROÇA E MOTO / AUTO / CAMINHAO
+895;Colisão entre veículos;COLISÃO COM UMA VITIMA
+896;Colisão entre veículos;MOTO E CAMINHÃO SENDO QUE UM VEICULO EVADIU-SE DO LOCAL
+897;Colisão entre veículos;COLISÃO ENTRE AUTO E DUAS MOTOS
+898;Colisão entre veículos;COLISÃO DOIS AUTOS
+899;Colisão entre veículos;COLISÃO AUTO E MOTO COM VITIMA
+900;Colisão entre veículos;COLISÃO ENTRE ONIBUS DA METROPOLITANA E MOTO C/V
+901;Colisão entre veículos;MOTO SE CHOCOU CONTRA MURETA
+902;Colisão entre veículos;ÔNIBUS SE CHOCOU COM O MURO DE UM DEPOSITO
+903;Atropelamento de pedestre;"VEICULO COLIDIU COM OUTRO; E ACABOU ATROPELANDO UMA PESSOA. UM DOS VEICULOS SE EVADIU DO LOCAL"
+904;Atropelamento de pedestre;ATROPELAMENTO VITIMA SOCORRIDA
+905;Atropelamento de pedestre;ATROPELAMENTO MOTO/PEDESTRE
+906;Atropelamento de pedestre;MOTO ATROPELOU PEDESTRE E A MOTO SE ENCONTRA EMBAIXO DE UM CARRO
+907;Atropelamento de pedestre;COM UMA VITIMA JÁ SOCORRIDA PELOS BOMBEIROS
+908;Atropelamento de pedestre;ONIBUS E AUTO C/V
+909;Atropelamento de pedestre;XX
+910;Atropelamento de pedestre;01 MOTO 01 AUTO
+911;Atropelamento de pedestre;"ATROPELAMENTO MOTO X PEDESTRE; SOBRE O VIADUTO DO BRT"
+912;Atropelamento de pedestre;ATROPELAMRNT COM UMA VITIMA
+913;Atropelamento de pedestre;ATROPELAMENTO DUAS PESSOAS
+914;Atropelamento de pedestre;AUTO X MOTO
+915;Atropelamento de pedestre;ATROPELAMENTO COM UM IDOSO VITIMA
+916;Atropelamento de pedestre;ATROPELAMENTO ENVOLVENDO PEDESTRE
+917;Atropelamento de pedestre;VEÍCULO DE PLACA PFS8108 HONDA NXR 150
+918;Colisão entre veículos;CONDUTOR PERDEU O CONTROLE DO AUTO E CHOCOU-SE CONTRA UM MURO
+919;Colisão entre veículos;AUTO E VT DA POLICIA
+920;Colisão entre veículos;COLISAO ENTRE AUTO E ONIBUS - MOTORISTA INFORMA QUE CONDUTOR E UM PASSAGEIRO DO AUTO SE EVADIU DO LOCAL
+921;Colisão entre veículos;COLISÃO ENTRE TRES AUTOS
+922;Colisão entre veículos;COLISÃO ENTRE UM ONIBUS E UM AUTO
+923;Colisão entre veículos;COLISÃO SEGUIDO DE UM CAPOTAMENTO COM VITIMAS
+924;Colisão entre veículos;ONIBUS E VT POLICIA CIVIL
+925;Colisão entre veículos;"CHOQUE COM VITIMA; AGUARDANDO SAMU"
+926;Capotamento/Tombamento;02 AUTOS
+927;Colisão entre veículos;TRES AUTO VEICULO CAPOTADO DEVIDO A COLISAO
+928;Colisão entre veículos;"COLISAO COM CICLISTA; 1 VITIMA A ESPERA DO SAMU"
+929;Colisão entre veículos;MOTO E CICLISTA OBS: BATEDORES NO LOCAL MOTO n:30 E 18
+930;Atropelamento de pedestre;ATROPELAMENTO DE AUTO COM UM CICLISTA
+931;Colisão entre veículos;COLISAO DE AUTO COM CICLISSTA
+932;Colisão entre veículos;COLISAO COM CICLISTA
+933;Colisão entre veículos;ÔNIBUS E BIKE
+934;Colisão entre veículos;SHINERAY CHOCOU-SE CONTRA A DIVISÓRIA FISICA DA PISTA.
+935;Colisão entre veículos;CARRETA E MOTO
+936;Colisão entre veículos;COLISÃO ENTRE UM GOL E UMA CINQUENTINHA
+937;Colisão entre veículos;AUTO X MOTOCICLETA
+938;Colisão entre veículos;COM UMA VÍTIMA VT 09 NO LOCAL(SUB. PINA)
+939;Colisão entre veículos;"CONDUTORA DE UMA MOTOCICLETA SE CHOCOU CONTRA UM PORTÃO DE UMA EMPRESA; DISTRIBUIDORA JJ; ATINGINDO UM CARRO QUE ESTAVA DENTRO DA GARAGEM DA EMPRESA"
+940;Colisão entre veículos;MOTO E ONIBUS
+941;Colisão entre veículos;"COLISÃO ENTRE AUTO E MOTO; C/V"
+942;Colisão entre veículos;"COLISAO COM VITIMA; AUTO E MOTO"
+943;Colisão entre veículos;COLISÃO COM VITIMAS VT 03 NO LOCAL
+944;Colisão entre veículos;"COLISAO DUAS MOTOS; COM DUAS VITIMAS"
+945;Colisão entre veículos;COM VITIMA
+946;Colisão entre veículos;COLISÃO DE ONIBUS COM MOTO
+947;Colisão entre veículos;AUTO E MOTO ( LOCAL DESCARACTERIZADO)
+948;Colisão entre veículos;COLISAO ENTRE CARRO E MOTO C/V
+949;Colisão entre veículos;COLISÃO ENTRE UMTÁXI E UMA MOTO COM VÍTIMA
+950;Colisão entre veículos;VIATURA DA POLICIA E MOTO
+951;Colisão entre veículos;COLISAO 1 MOTO COM VITIMA
+952;Colisão entre veículos;ONIBUS BORBOREMA E MOTO
+953;Colisão entre veículos;EMLURB
+954;Colisão entre veículos;COM VITIMA SAMU NO LOCAL
+955;Colisão entre veículos;COL. C/V
+956;Colisão entre veículos;COM UMA VÍTIMA. MOTO JÁ RETIRADA DO LOCAL.
+957;Colisão entre veículos;MOTOQUEIRO CHOCOU COM UM CAMINHAO DE LIXO
+958;Atropelamento de pedestre;SEGUNDA TRAVESSA DA JOAO DE BARROS
+959;Atropelamento de pedestre;VT 03 NO QTH SUB CASSIO / AUTO
+960;Atropelamento de pedestre;PEDESTRE E 01 ONIBUS
+961;Atropelamento de pedestre;"ATROPELAMENTO ;CONDUTOR COM SINTOMAS DE EMBRIAGUES"
+962;Atropelamento de pedestre;CONDUTOR ATROPELOU UM TRANSEUNTE NA AV MANOEL GONÇALVES DA LUZ E SE EVADIU. OS PM'S O PERSEGUIRAM E CONSEGUIRAM ALCANÇÁ-LO NA 21 DE ABRIL. VÍTIMA JÁ SOCORRIDA SEGUNDO O PM QUE REGISTROU A OCORRÊNCIA.
+963;Atropelamento de pedestre;COLISÃO COM VÍTIMA
+964;Atropelamento de pedestre;AUTO E MOT E PEDESTRE
+965;Atropelamento de pedestre;COM DUAS VITIMAS
+966;Atropelamento de pedestre;"ATROPELAMENTO MOTO E PEDESTRE; COM 2 VITIMAS; AGUARDANDO SAMU"
+967;Atropelamento de pedestre;PEDESTRE E AUTO
+968;Atropelamento de pedestre;PEDESTRE A ESPERA DO SAMU
+969;Atropelamento de pedestre;ATROPELAMENTO DE ONIBUS BRT E PEDESTRE
+970;Colisão entre veículos;COLISÃO DOIS AUTOS COM VÍTIMA
+971;Colisão entre veículos;UM AUTO
+972;Colisão entre veículos;COLISÃO ENTRE DOIS AUTOS COM 3 VÍTIMASS
+973;Não classificado;ART181
+974;Não classificado;ART 181
+975;Colisão entre veículos;COLISAO ENTRE ONIBUS E AUTO
+976;Colisão entre veículos;VEICULO CHOCOU-SE CONTRA UM POSTE
+977;Colisão entre veículos;TRATOR E AUTO / COLISAO E ATROPELAMENTO
+978;Colisão entre veículos;AUTO CHOCOU-SE COM O POSTE.
+979;Colisão entre veículos;"COLISAO ENTRE 3 AUTOS E MOTO; C/V"
+980;Colisão entre veículos;2 AUTOS E UMA MOTO
+981;Colisão entre veículos;"SEM VITIMA;IDOSA NO VEICULO"
+982;Colisão entre veículos;COLISÃ DOIS AUTO E MOTO
+983;Colisão entre veículos;"COM VITIMA;CRIANÇA DE 5 ANOS"
+984;Colisão entre veículos;COLISÃO C/V
+985;Colisão entre veículos;MOTO/BICICLETA
+986;Colisão entre veículos;ONIBUS / CICLISTA
+987;Colisão entre veículos;COLISÃO ENTRE 2 ÔNIBUS E UM CICLISTA
+988;Colisão entre veículos;COLISAO DE AUTO COM CICLISTA
+989;Colisão entre veículos;"COLISÃO ENTRE AUTO E CINQUENTINHA; C/V"
+990;Colisão entre veículos;COLISÃO ENTRE AUTO E CIQUENTINHA C/V
+991;Colisão entre veículos;01 AUTO 01 MOBILETE
+992;Colisão entre veículos;COLISÃO ENTRE UMA MOTO E UMA VIATURA DA POLÍCIA MILITAR COM VÍTIMA
+993;Colisão entre veículos;ONIBUS X MOTO
+994;Colisão entre veículos;COLISÃO ENTRE DOIS AUTOS E UMA MOTO C/V
+995;Colisão entre veículos;"COLISAO AUTO E MOTO; COM VITIMA"
+996;Colisão entre veículos;COLISAO AUTO E MOTO COM VITIMA
+997;Não classificado;CONDUTOR DA MOTO SE DESQUILIBROU E CAIU NA VIA
+998;Colisão entre veículos;COLISÃO COM 1 VITIMA GM WILLAMIS QTH
+999;Colisão entre veículos;COLISÃO CO VITIMA JÁ SOCORRIDA PELOS BOMBEIROS
+1000;Colisão entre veículos;01 MOTO 01 MOTO
+1001;Colisão entre veículos;"COL.C/V;SET BR"
+1002;Colisão entre veículos;"COLISÃO ÔNIBUS E MOTO 50CC; COM VITIMA"
+1003;Colisão entre veículos;COM VITIMAS
+1004;Colisão entre veículos;COLISAO ENTRE CAMINHAO E MOTO
+1005;Colisão entre veículos;"COLISÃO ENTRE AUTO E MOTO; CV"
+1006;Atropelamento de pedestre;ATROPELAMENTO MOTO PEDESTRE
+1007;Colisão entre veículos;COLISÃO COM VÍTIMA/ GM GILSON ALVES NO LOCAL
+1008;Colisão entre veículos;"COLISAO ENTRE AUTO E MOTO; C/V"
+1009;Colisão entre veículos;COLIS'AO COM 1 VITIMA A ESPERA DO SAMU
+1010;Colisão entre veículos;COL.C/V SET.SUB
+1011;Colisão entre veículos;COLISÃO COM VÍTIMA ENTRE DUAS MOTOS
+1012;Colisão entre veículos;"COM VITIMA;AGUARDANDO SAMU"
+1013;Colisão entre veículos;COLISÃO COM 1 VITIMA SOCORRIDA PELO
+1014;Colisão entre veículos;ENTRE UJM AUTO E UMA MOTO
+1015;Colisão entre veículos;AUTO E MOTO OBS: VT 05 DA CTTU ESTA NO LOCAL
+1016;Não classificado;ARVORE CAIU SOBRE MOTOCICLISTA
+1017;Colisão entre veículos;CAMINHONETE E MOTO
+1018;Colisão entre veículos;COLISAO ENTRE AUTO E MOTO C/C
+1019;Colisão entre veículos;COLISÃO COM VITIMA A ESPERA DO SAMU
+1020;Colisão entre veículos;"ACIDENTE COM VITIMA; AUTO E MOTO"
+1021;Colisão entre veículos;COLISAO ENTRE MOTO E MICRO ONIBUS C/V
+1022;Colisão entre veículos;COLISÃO COM 1 VITIMA A AESPERA DO SAMU
+1023;Capotamento/Tombamento;CAMINHÃO TOMBADO NA SUBIDA PONTE
+1024;Colisão entre veículos;ONIBUS DA PEDROSA E CAMINHAO DE BAU
+1025;Colisão entre veículos;ENTRE UM ONIBUS E UM CAMINHÃO
+1026;Atropelamento de pedestre;ATROPELAMENTO DE UM TRANSEUNTE
+1027;Atropelamento de pedestre;C/V
+1028;Atropelamento de pedestre;ATROPELAMENTO A PEDESTRE
+1029;Atropelamento de pedestre;ATROPELAMENTO C/V SET.CD
+1030;Atropelamento de pedestre;ATROPELAMENTO DE UMA CRIANÇA E AUTO
+1031;Atropelamento de pedestre;ONIBUS DA METROPOLITANA E PEDESTRE
+1032;Atropelamento de pedestre;MOTO E PEDESTRE C/V
+1033;Atropelamento de pedestre;ATOPELAMENTO C/V JA SOCORRIDA
+1034;Atropelamento de pedestre;MOTO X PEDETRES
+1035;Atropelamento de pedestre;COLISAO C/ ATROPELAMENTO / MOTO E AUTO
+1036;Colisão entre veículos;"COLISAO DOIS AUTOS; COM VITIMA. AGUARDANDO SOCORRO MEDICO"
+1037;Colisão entre veículos;TX PGZ1195 E IDEA PGB1055
+1038;Colisão entre veículos;COLISAO ENTRE AUTO E CINQUETINHA C/V
+1039;Colisão entre veículos;03 AUTOS
+1040;Colisão entre veículos;COLISÃO ENVOLVENDO DOIS AUTOS
+1041;Colisão entre veículos;VIATURA COM CHOCOU-SE COM MURETA
+1042;Colisão entre veículos;ENTRE UM ONIBUS E UM AUTO
+1043;Colisão entre veículos;COM UM VÍTIMA.
+1044;Colisão entre veículos;ONIBUS CAXANGA X AUTO
+1045;Colisão entre veículos;COLISAO ENTRE ONIBUS E AUTO// COM VITIMA
+1046;Colisão entre veículos;COLISÃO MOTO E CICLISTA
+1047;Colisão entre veículos;COLISÃO ENTRE BRT E CICLISTA
+1048;Colisão entre veículos;COM UMA VÍTIMA. (COLISÃO ENTRE ONIBUS E BICICLETA)
+1049;Colisão entre veículos;ATROPELAMENTO CICLISTA E AUTO
+1050;Atropelamento de pedestre;ÔNIBUS E PEDESTRE
+1051;Colisão entre veículos;CAMINHAO PIPA E CICLISTA OBS: VT 17 DA CTTU ESTA NO LOCAL
+1052;Colisão entre veículos;COLISAO ENTRE AUTO E BICICLETA
+1053;Colisão entre veículos;COLISAO COM VITIMAS
+1054;Colisão entre veículos;COL.C/V SET.R7
+1055;Colisão entre veículos;COLISÃO COM VITIMAS SOCORRIDA PELOS BOMBEIROS
+1056;Colisão entre veículos;"COLISAO AUTO E MOTO; COM VITIMA. AUTO SE EVADIU"
+1057;Colisão entre veículos;ONIBUS RCR E MOTO
+1058;Colisão entre veículos;COLISÃO ENTRE AUTO E MOTO COM VÍTIMAS
+1059;Colisão entre veículos;MOTQUEIRO JÁ SOCORRIDO PELO SAMU E OS VEICULOS FORAM RETIRADOS DO MEIO DA VIA PELOS ENVOLVIDOS
+1060;Colisão entre veículos;"COL.C/V;BR 101"
+1061;Colisão entre veículos;SEM VITIMAS
+1062;Colisão entre veículos;"COL.C/V ;SET OLINDA(NO VEICULO TEM UMA CRIANÇA MENOR DE IDADE"
+1063;Colisão entre veículos;"COISÃO AUTO E MOTO; COM VÍTIMA"
+1064;Colisão entre veículos;DUAS VÍTIMAS
+1065;Colisão entre veículos;"COLISÃO COM VÍTIMA: AUTO; MOTO E ÔNIBUS"
+1066;Colisão entre veículos;COLISÃO ENTRE CAMINHÃO E MOTO COM VÍTIMA
+1067;Colisão entre veículos;COM VITIMAS SAMU NO LOCAL E OLEO DERRAMADO NA PISTA
+1068;Colisão entre veículos;COLISAO AUTO E MOTO C/V
+1069;Não classificado;MOTOCICLISTA SOBROU NA CURVA
+1070;Colisão entre veículos;COM VITIMAS LOCAL DESCARACTERIZADO
+1071;Colisão entre veículos;COLISÃO ENTRE AUTO E MOTO COM VITIMA (D533289) DELTA IC
+1072;Colisão entre veículos;"COM VITIMA ;SAMU ACIONADO"
+1073;Colisão entre veículos;"COLISÃO AUTO E MOTO; COM VÍTIMA"
+1074;Colisão entre veículos;COLISÃO ENTRE MOTOCICLETA E TÁXI COM VÍTIMA
+1075;Colisão entre veículos;COL.C/V SET.DIREITA GM FAUSTOP VT 12
+1076;Colisão entre veículos;"SAMU ACIONADO; COM UMA VITIMA"
+1077;Colisão entre veículos;COLISAO ENVOLVENDO AUTO E MOTO
+1078;Colisão entre veículos;COLISAO ENTRE DUAS MOTOS C/V
+1079;Colisão entre veículos;"COLISÃO COM VITIMAS SAMU NO LOCAL;LOCAL DESCARACTERIZADO"
+1080;Colisão entre veículos;COLISAO ENTRE MOTO E ONIBUS DA CRP C/V
+1081;Colisão entre veículos;COL.C/V SET.JABOATAO
+1082;Colisão entre veículos;COLISÃO MOTO X MOTO
+1083;Colisão entre veículos;ART 181
+1084;Colisão entre veículos;COM UMA VITIMA
+1085;Colisão entre veículos;COLISÃO ENTRE AUTO E MOTOCICLETA
+1086;Colisão entre veículos;COM UMA VITIMA AQUARDANDO SAMU
+1087;Colisão entre veículos;COM VITIMA AGUARDANDO SAMU
+1088;Colisão entre veículos;ONOBUS TRANSCOM E AUTO
+1089;Colisão entre veículos;COL.C/V.SET.GOES
+1090;Colisão entre veículos;ENTRE UM ONIBUS E UMA MOTO
+1091;Colisão entre veículos;MOTO E VAN ESCOLAR
+1092;Colisão entre veículos;COLISÃO SEGUIDO DE ATROPELAMENTO UMA VITIMA SAMU NO LOCAL
+1093;Colisão entre veículos;COLISAO ENTRE ONIBUS
+1094;Colisão entre veículos;COM CINCO VITIMAS SENDO SOCORRIDAS PELO SAMU
+1095;Capotamento/Tombamento;COM DUAS VITIMAS JA SOCORRIDA
+1096;Atropelamento de pedestre;"2 AUTOS E PEDESTRE; UM DOS CONDUTORES SE EVADIU DO LOCAL"
+1097;Atropelamento de pedestre;ONIBUS E PEDESTRE C/V
+1098;Atropelamento de pedestre;ATROPELAMENTO AUTO E PEDESTRE
+1099;Atropelamento de pedestre;ONIBUS DA CRT E PEDESTRE
+1100;Atropelamento de pedestre;ATROPELAMENO DE PEDESTRE
+1101;Atropelamento de pedestre;COM VÍTIMA
+1102;Atropelamento de pedestre;01 ONIBUS EMPRESA MOBIBRASIL
+1103;Atropelamento de pedestre;"ATROPELAMENTO MOTO E PEDESTRE; COM VÍTIMA"
+1104;Atropelamento de pedestre;"ATROPELAMENTO COM UMA VITIMA A ESPERA DO SAMU;CTTU NO LOCAL GM LUANA E SUB INSP ERONILDO NO LOCAL"
+1105;Atropelamento de pedestre;ONIBUS DA EMPRESA METROPOLITANA X MULHER
+1106;Atropelamento de pedestre;AUTO E PEDESTRE CONTUDOR APARENTANDO EMBREAGUES
+1107;Colisão entre veículos;VEÍCULO CHOCOU-SE CONTRA UM POSTE
+1108;Colisão entre veículos;VEICULO CHOCOU-SE COM PRISMA DE CONCRETO
+1109;Colisão entre veículos;COM UMA VÍTIMA JÁ ATENDIDA NO LOCAL.
+1110;Colisão entre veículos;COLISÃO ENTRE TÁXI E ÔNIBUS
+1111;Colisão entre veículos;COLISAO DE TRES AUTOS E DUAS MOTOS COM UMA VITIMA
+1112;Colisão entre veículos;DOIS VEICULOS
+1113;Colisão entre veículos;COLISAO CAMINHAO E AUTO
+1114;Colisão entre veículos;COLISAO DE AUTO
+1115;Colisão entre veículos;DOIS VEÍCULOS AUTO PASSEIO
+1116;Colisão entre veículos;"VEICULO CHOCOU-SE COM ACOSTAMENTO; CAINDO EM UM CANAL"
+1117;Colisão entre veículos;VEICULO CHOCOU-SE COM O POSTO
+1118;Colisão entre veículos;COLISAO DE MOTO E ONIBUSA S/V
+1119;Colisão entre veículos;TRES AUTO
+1120;Colisão entre veículos;COLISÃO ENTRE AUTO E CAMINHÃO
+1121;Capotamento/Tombamento;COLISÃO EM SEGUIDA DE CAPOTAMENTO VITIMAS SOCORRIDA PELO SAMU
+1122;Colisão entre veículos;VEÍCULOS ENTRE DOIS AUTOS
+1123;Colisão entre veículos;ENTRE TRES AUTOS COM CAPOTAMENTO
+1124;Colisão entre veículos;01 MOTO E CICLISTA
+1125;Colisão entre veículos;VT DA POLICIA COM CICLISTA
+1126;Colisão entre veículos;VEICULO ATROPELOU UMA CICLISTA
+1127;Colisão entre veículos;COLISÃO ENTRE AUTO E CICLISTA COM VÍTIMA
+1128;Colisão entre veículos;COLISÃO ENTRE UMA MOTO 50 CC E TÁXI
+1129;Colisão entre veículos;COM UMA VÍTIMAS
+1130;Colisão entre veículos;MOTO PFP7259 X AUTO PFZ2942
+1131;Colisão entre veículos;"COLISÃO ENTRE ÔNIBUS E MOTO; COM VÍTIMA"
+1132;Colisão entre veículos;COLISAO ENTRE ONIBUS E MOTO C/V
+1133;Colisão entre veículos;"COL.C/V;"
+1134;Colisão entre veículos;CPLISAO ENTRE AUTO E MOTO C/V
+1135;Colisão entre veículos;COM VITIMA SENDO SOCORRIDA PELOS BOMBEIROS
+1136;Colisão entre veículos;"COLISÃO AUTO E MOTO; COM VÍTIMA. VÍTIMA SOCORRIDA PELOS BOMBEIROS"
+1137;Colisão entre veículos;COL.C/V EM UM DOS VEICULO TEM CRIANÇA MENOR
+1138;Colisão entre veículos;COL.COM DUAS VITIMAS
+1139;Colisão entre veículos;"COLISÃO DUAS MOTOS; COM VÍTIMA"
+1140;Colisão entre veículos;COLISÃO COM VÍTIMA ENTRE DUAS MOTOS E UM AUTO
+1141;Colisão entre veículos;COLISAO EVOLVENDO DOIS AUTOS E UMA MOTO COM VITIMA
+1142;Colisão entre veículos;COLISAO DE MOTOS
+1143;Colisão entre veículos;COLISAO DE AUTO COM MOTO
+1144;Colisão entre veículos;COLISAO ENTRE CAMINHONETE E MOTO
+1145;Colisão entre veículos;COLISAO ENTRE TAXI E MOTO C/V
+1146;Colisão entre veículos;"COLISÃO AUTO E MOTO; COM VÍTIMA."
+1147;Colisão entre veículos;COLISÃO COM VÍTIMA ENTRE AUTO E MOTOCICLETA (8419110 MIKE / 5799028 CHARLIE / 535489 DELTA)
+1148;Colisão entre veículos;COLISÃO ENTRE AUTO E MOTOCICLETA COM 02 VÍTIMAS
+1149;Colisão entre veículos;"COL.S/V;SET;CD"
+1150;Colisão entre veículos;COL..C/V SET.SUB
+1151;Colisão entre veículos;COLISÃO ENTRE ONIBUS X MOTO
+1152;Colisão entre veículos;"COLISÃO ENTRE DUAS MOTOS; COM VÍTIMA"
+1153;Colisão entre veículos;COLISAO DE DUAS MOTOS COM UMA VITIMA
+1154;Colisão entre veículos;COM 1 VITIMA
+1155;Colisão entre veículos;DOIS AUTO E MOTO
+1156;Colisão entre veículos;COL.COM DUAS VITIMA
+1157;Colisão entre veículos;COM UMA VITIMA JÁSOCORRIDA PELO SAMU
+1158;Colisão entre veículos;AUTO X MOTO VÍTIMA NO LOCAL
+1159;Colisão entre veículos;COL.COM UMA VITIMA
+1160;Colisão entre veículos;COLISÃO COM 1 VITIMA GM PAULO QTH
+1161;Colisão entre veículos;"AUTO X MOTO; AGENTE DO LOCAL GM FÁBIO PEREIRA"
+1162;Colisão entre veículos;COLISAO ENTRAUTO E MOTO
+1163;Colisão entre veículos;MOTO CHOQUE COM POSTE
+1164;Colisão entre veículos;COLISAO DE TAXI E MOTO S/V
+1165;Colisão entre veículos;COLISAODE AUTOE MOTO - VEICULOS RETIRADOS DA VIA
+1166;Colisão entre veículos;ENTRE DUAS MOTOS
+1167;Colisão entre veículos;MOTO E CAMINHAO
+1168;Colisão entre veículos;"COLISÃO ENTRE AUTO E MOTO; COM VÍTIMA"
+1169;Colisão entre veículos;vw/ gol kjr2350 e 1 moto
+1170;Colisão entre veículos;"AUTO E MOTO; AUTO EVADIU-SE DO LOCAL."
+1171;Colisão entre veículos;COLISÃO COM 1 VITIMA A ESPERA DO SOCORRO
+1172;Colisão entre veículos;ENTRE UM AUTO EUMA MOTO
+1173;Colisão entre veículos;UM AUTO E UMA AMBULÂNCIA
+1174;Colisão entre veículos;VT DA POLICIA E MOTO
+1175;Colisão entre veículos;DOIS ONIBUS BORBOREMA E CAXANGA
+1176;Colisão entre veículos;01 MOTO 01 VT PM
+1177;Colisão entre veículos;"COLISÃO COM VITIMA;ENTRE UM COLETIVO E UM CAMINHÃO DA EMLURB"
+1178;Não classificado;VEICULO ESTACIONADO NA RAMPA DE ACESSO PARA DEFICIENTE FISICO
+1179;Atropelamento de pedestre;ATROPELAMNETO DE PEDESTRE
+1180;Atropelamento de pedestre;MOTOCICLETA COM DOIS OCUPANTES ATROPELOU PEDESTRE
+1181;Atropelamento de pedestre;01 AUTO 01 MOTO
+1182;Atropelamento de pedestre;COM VITIMA
+1183;Atropelamento de pedestre;COM UMA VÍTIMA. APÓS O SEMÁFORO Nº 642
+1184;Atropelamento de pedestre;ATROPELAMENTO COM VÍTIMA.
+1185;Atropelamento de pedestre;ATROPELAMENTO SEGUIDO DE COLISAO
+1186;Atropelamento de pedestre;MOTO ATRPELOU
+1187;Atropelamento de pedestre;MOTO/ PEDESTRE
+1188;Atropelamento de pedestre;X
+1189;Atropelamento de pedestre;01 PEDESTRE (VT-14 NO LOCAL)
+1190;Atropelamento de pedestre;COLISAO COM VITIMA ENTRE AUTO E MOTO
+1191;Atropelamento de pedestre;"ATROPELAMENTO; ÔNIBUS E PEDESTRE COM VÍTIMA."
+1192;Atropelamento de pedestre;ATROPELAMENTO COM VÍTIMA
+1193;Atropelamento de pedestre;ONIBUS METROPOLITANA E PEDESTRE
+1194;Atropelamento de pedestre;ATROPELAMENTO DE ADOLECENTE
+1195;Não classificado;Ambulância
+1196;Não classificado;Sem informação
+1197;Acidente com ciclista;Ciclomotor
+1198;Não classificado;Carro

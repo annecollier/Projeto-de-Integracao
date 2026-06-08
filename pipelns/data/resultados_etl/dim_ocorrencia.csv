@@ -1,0 +1,19 @@
+sk_ocorrencia;tipo_ocorrencia;classificacao_ocorrencia
+1;NÃO INFORMADO;Outros
+2;COLISÃO;Colisão
+3;COLISÃO COM CICLISTA;Colisão
+4;ACID DE PERCURSO;Outros
+5;ATROPELAMENTO;Atropelamento
+6;CHOQUE;Colisão
+7;TOMBAMENTO;Perda de controle
+8;ENGAVETAMENTO;Colisão
+9;"""COLISÃO";Colisão
+10;ATROPELAMENTO ANIMAL;Atropelamento de animal
+11;CAPOTAMENTO;Perda de controle
+12;ENTRADA E SAÍDA;Outros
+13;COLISÃOA;Colisão
+14;ACID. DE PERCURSO;Outros
+15;QUEDA DE ÁRVORE;Outros
+16;ATROPELAMENTOA;Atropelamento
+17;COLISÃO	2016 13 050;Colisão
+18;FISCALIZAÇÃO;Outros
