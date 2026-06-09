@@ -78,3 +78,22 @@ Ao final do pipeline, consolidamos os três anos de dados em uma estrutura dimen
 ├── INFO_DATASETS.md              # Estrutura e metadados dos datasets
 └── README.md
 
+🚀 Como Executar
+Pré-requisitos
+
+Instale Python na sua máquina (ou utilize o Google Colab).
+
+Clone este repositório.
+
+Instale as dependências executando no terminal:
+```bash
+pip install pandas numpy duckdb
+```
+
+Certifique-se de que os 8 arquivos de origem (CSVs e GeoJSONs de 2014 a 2016) estão devidamente alocados na pasta ./data/.
+
+Passo 1: Execução do Pipeline ETL Clássico (Pandas + SQLite)
+
+Abra e execute todas as células do notebook Pipeline_ETL_Acidentes.ipynb
+
+O que acontece: O Pandas extrai e transforma os dados pesadamente em memória RAM. Ao final, o script DDL cria o banco relacional local dw_acidentes.db e as tabelas Fato e Dimensões são populadas utilizando .to_sql().
