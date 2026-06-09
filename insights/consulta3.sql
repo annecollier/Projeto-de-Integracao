@@ -10,5 +10,5 @@ WHERE l.bairro IS NOT NULL
 GROUP BY
     l.bairro
 ORDER BY
-    qtd_acidentes DESC
+    qtd_acidentes DESC;
 LIMIT 15;
