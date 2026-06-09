@@ -1,8 +1,12 @@
 # Arquivos presentes no Portal
 
+> **Fontes de dados originais (Portal de Dados Abertos do Recife):**
+> * [Dataset - Acidentes de Trânsito com Vítimas 2014](https://dados.recife.pe.gov.br/dataset/acidentes-de-transito-com-vitimas-2014)
+> * [Dataset - Acidentes de Trânsito com Vítimas 2015](https://dados.recife.pe.gov.br/dataset/acidentes-de-transito-com-vitimas-2015)
+> * [Dataset - Acidentes de Trânsito com Vítimas 2016](https://dados.recife.pe.gov.br/dataset/acidentes-de-transito-c-vitimas-2016)
 ---
 
-### **Comparação Geral dos Formatos**
+### **Comparação geral dos formatos**
 
 | Tipo de Arquivo | Estrutura de Dados | Principal Objetivo | Ferramentas Ideais para Abrir | 
 | --- | --- | --- | --- | 
@@ -31,7 +35,7 @@ No contexto dos datasets os arquivos JSON foram usados para armazenar metadados 
 
 
 
-**Arquivos por Mês:**
+**Arquivos por mês:**
 
 * **Março:** GeoJSON - Acidentes Março-2014
 * **Abril:** GeoJSON - Acidentes Abril-2014
@@ -58,7 +62,7 @@ No contexto dos datasets os arquivos JSON foram usados para armazenar metadados 
 
 
 
-**Arquivos por Mês:**
+**Arquivos por mês:**
 
 * **Janeiro:** GeoJSON - Acidentes Janeiro-2015
 * **Fevereiro:** GeoJSON - Acidentes Fevereiro-2015
@@ -80,7 +84,7 @@ No contexto dos datasets os arquivos JSON foram usados para armazenar metadados 
 * *Descrição:* Metadados de Acidente de Trânsito com Vítimas
 
 
-# Dicionário de Dados: Acidentes de Trânsito com Vítimas (Organizado por Ano)
+# Dicionário de Dados: Acidentes de Trânsito com Vítimas (Organizado por ano)
 
 ---
 
