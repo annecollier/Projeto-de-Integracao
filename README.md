@@ -36,7 +36,7 @@ O projeto constrói o mesmo modelo final através de dois caminhos distintos par
 
 Ao final do pipeline, consolidamos os três anos de dados em uma estrutura dimensional consistente, composta por uma Tabela Fato e cinco Tabelas Dimensão:
 
-![Diagrama](docs/esquema_estrela.png) 
+![Diagrama](docs/esquema_estrela.jpeg) 
 *(Nota: Certifique-se de salvar a imagem do seu diagrama na pasta `docs/` com o nome `diagrama_fluxo.png`)*
 
 | Tabela | Tipo | Descrição |
