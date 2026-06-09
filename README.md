@@ -103,7 +103,9 @@ O Pandas extrai e transforma os dados pesadamente em memória RAM. Ao final, o s
 
 #### Passo 2: Execução do Pipeline ELT Moderno (DuckDB + SQL)
 
-Baixe o arquivo pipeline_ELT_acidentes_recife.ipynb e abra-o pelo Google Colab, em seguida execute todas as células do notebook
+
+Baixe o arquivo pipeline_ELT_acidentes_recife.ipynb e abra-o pelo Google Colab, em seguida 
+certifique-se de que os 8 arquivos de origem (CSVs e GeoJSONs de 2014 a 2016) da pasta./data/. estão devidamente alocados no colab. Por último execute todas as células do notebook.
 
 #### O que acontece: 
 
