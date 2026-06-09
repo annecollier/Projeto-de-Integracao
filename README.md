@@ -1,25 +1,79 @@
-# Projeto de Integração
-# Tema: Acidentes de trânsito com vítima em Recife (2014-2016)
-# Disciplina: Banco de Dados - CIN UFPE
+# 🚗 Pipeline de Dados: Acidentes de Trânsito com Vítimas (Recife)
+**Projeto de Integração e Evolução de Sistemas Digitais - Banco de Dados - CIn/UFPE**
 
------
+Este projeto implementa e compara duas arquiteturas fundamentais de Engenharia de Dados — **ETL Clássico** (Python/Pandas + SQLite) e **ELT Moderno** (DuckDB + dbt/SQL) — para processar, higienizar e modelar dados públicos sobre acidentes de trânsito.
+
+O resultado final é a construção de uma Modelagem Dimensional (Esquema Estrela), transformando milhares de registros brutos e fragmentados em um Data Warehouse otimizado para Business Intelligence (BI) e análises históricas.
+
+---
+
+## 🎯 Objetivo e Desafio
+
+O objetivo central foi integrar dados dispersos temporalmente (2014 a 2016) para permitir análises sobre a mobilidade urbana, identificando pontos críticos e perfis de acidentes na cidade.
+
+* **Fonte:** Portal de Dados Abertos da Prefeitura do Recife.
+* **Dados Brutos:** Arquivos heterogêneos em CSV e GeoJSON (anuais e mensais).
+* **Desafios Principais:** Inconsistência nos nomes e quantidades de colunas entre os anos, múltiplos formatos de data, coordenadas geográficas invertidas (latitude/longitude) e dados nulos/ausentes.
+
+---
+
+## 🏗️ Arquitetura da Solução
+
+O projeto constrói o mesmo modelo final através de dois caminhos distintos para fins de comparação prática:
+
+### 1. Abordagem ETL (Python Driven)
+* **Extração:** Leitura automatizada dos arquivos CSV e GeoJSON utilizando a biblioteca Pandas.
+* **Transformação:** Limpeza pesada em memória (conversão de datas, padronização de textos para maiúsculo, tratamento de nulos e classificação de veículos) utilizando lógicas do Python.
+* **Carga:** Inserção das tabelas finais estruturadas (Fato e Dimensões) em um banco de dados local **SQLite** utilizando a biblioteca nativa `sqlite3`.
+
+### 2. Abordagem ELT (Modern Data Stack)
+* **Extração & Carga (EL):** O Python atua apenas como orquestrador, carregando os 8 arquivos brutos diretamente para o **DuckDB** em um schema *raw* (Staging), sem tipagem prévia.
+* **Transformação (T):** O **dbt** (data build tool) orquestra todas as transformações complexas no próprio banco usando SQL. Envolveu consolidação via `UNION ALL`, correções dinâmicas de eixos geográficos invertidos, CTEs com expressões regulares e geração de surrogate keys analíticas (`ROW_NUMBER()`).
+
+---
+
+## ⭐ Modelagem de Dados (Esquema Estrela)
+
+Ao final do pipeline, consolidamos os três anos de dados em uma estrutura dimensional consistente, composta por uma Tabela Fato e cinco Tabelas Dimensão:
+
+![Diagrama](docs/diagrama_fluxo.png) 
+*(Nota: Certifique-se de salvar a imagem do seu diagrama na pasta `docs/` com o nome `diagrama_fluxo.png`)*
+
+| Tabela | Tipo | Descrição |
+| :--- | :--- | :--- |
+| **fato_acidente** | Fato | Registro central do acidente. Contém chaves estrangeiras (SKs), a quantidade de vítimas e a quantidade de veículos envolvidos. |
+| **dim_tempo** | Dimensão | Calendário detalhado (Ano, Mês, Dia, Hora, Dia da Semana, Flag de Fim de Semana) para análises temporais. |
+| **dim_local** | Dimensão | Dados geográficos da ocorrência (Bairro, Endereço, Latitude, Longitude). |
+| **dim_tipo_acidente** | Dimensão | Natureza do evento (Causa do acidente e Descrição detalhada). |
+| **dim_ocorrencia** | Dimensão | Classificação administrativa (Tipo e Classificação da ocorrência). |
+| **dim_veiculo** | Dimensão | Dados dos transportes envolvidos (Tipo de veículo e Categoria macro). |
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+* **Linguagens:** Python 3+ e SQL.
+* **Manipulação de Dados:** Pandas.
+* **Bancos de Dados:** SQLite e DuckDB (OLAP Colunar).
+* **Transformação e Orquestração:** dbt (Data Build Tool).
+* **Versionamento:** Git e GitHub.
+
+---
 
 ## 📂 Estrutura do Repositório
 
-```
+```text
 .
-├── insights/                     # Arquivos SQL com as insights finais
+├── docs/
+│   └──diagrama_fluxo.png         # Diagrama
+├── insights/                     # Arquivos SQL com as análises finais
 ├── pipelns/                      # Pipelines de ETL e ELT
-│   └── data/                     # Dados brutos
-│       ├── 2014/
-|       ├── 2015/                
-│       └── 2016/
-├── transf_acidentes/             # Pipeline: Transformação
+│   └── data/                     # Dados brutos (2014, 2015, 2016)
+├── transf_acidentes/             # Projeto dbt (Pipeline 2: Transformação)
 │   ├── models/
-│   │   ├── base/                 # Integração dos dados brutos
-│   │   └── core/                 # Dimensões e Fato
+│   │   ├── base/                 # Integração e limpeza dos dados brutos
+│   │   └── core/                 # Tabelas Dimensões e Fato finais
 │   └── dbt_project.yml
 ├── CONTRIBUTING.md               # Padronização de contribuições e commits
-├── INFO_DATASETS.md              # Estrutura dos datasets
+├── INFO_DATASETS.md              # Estrutura e metadados dos datasets
 └── README.md
-```
