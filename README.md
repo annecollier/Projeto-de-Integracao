@@ -93,14 +93,24 @@ pip install pandas numpy duckdb
 
 Certifique-se de que os 8 arquivos de origem (CSVs e GeoJSONs de 2014 a 2016) estão devidamente alocados na pasta ./data/.
 
-#### Passo 1: 
-
-Execução do Pipeline ETL Clássico (Pandas + SQLite)
-
-#### Passo 2: 
+#### Passo 1: Execução do Pipeline ETL Clássico (Pandas + SQLite)
 
 Abra e execute todas as células do notebook Pipeline_ETL_Acidentes.ipynb
 
 #### O que acontece: 
 
 O Pandas extrai e transforma os dados pesadamente em memória RAM. Ao final, o script DDL cria o banco relacional local dw_acidentes.db e as tabelas Fato e Dimensões são populadas utilizando .to_sql().
+
+#### Passo 2: Execução do Pipeline ELT Moderno (DuckDB + SQL)
+
+Baixe o arquivo pipeline_ELT_acidentes_recife.ipynb e abra-o pelo Google Colab, em seguida execute todas as células do notebook
+
+#### O que acontece: 
+
+O script faz a carga bruta (Load) dos arquivos exatamente como vieram para um schema raw no banco analítico acidentes_dw.duckdb. Em seguida, roda os blocos de Transformação (SQL puro com CTEs) para gerar as Surrogate Keys e montar o Esquema Estrela dentro do schema dw.
+
+#### Passo 3: Validação e Insights (Testes de Qualidade)
+
+Exportação dos Resultados: As bases modeladas serão exportadas como .csv para as pastas de outputs/etl/ e outputs/elt/.
+
+Queries Analíticas: Serão gerados DataFrames de visualização rápida demonstrando insights (ex: cruzamento de acidentes por bairro, tipo de veículo e envolvimento no fim de semana).
