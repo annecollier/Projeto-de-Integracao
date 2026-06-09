@@ -65,17 +65,17 @@ Ao final do pipeline, consolidamos os três anos de dados em uma estrutura dimen
 .
 ├── docs/
 │   ├──diagrama_fluxo.png                   # Diagrama
-│   ├──dicionario_dados.md 
+│   ├──dicionario_dados.md                  # Dicionário de Dados do Data Warehouse
 │   ├──esquema_estrela.png                  # Esquema Estrela  
-│   └──Projeto de Integração - GRUPO 9.pdf
+│   └──Projeto de Integração - GRUPO 9.pdf  # Relatório final do projeto
 ├── insights/                               # Arquivos SQL com as análises finais
 ├── pipelns/                                # Pipelines de ETL e ELT
 │   ├── data/                               # Dados brutos (2014, 2015, 2016)
 │   ├── outputs/                            # Saídas
 │   │    ├── etl/
 │   │    └── elt/
-│   ├──pipeline_ELT_acidentes_recife.ipynb
-│   └──Pipeline_ETL_Acidentes_.ipynb
+│   ├──pipeline_ELT_acidentes_recife.ipynb  # Script completo do pipeline ELT;
+│   └──Pipeline_ETL_Acidentes_.ipynb        # Script completo do pipeline ETL;
 ├── CONTRIBUTING.md                         # Padronização de contribuições e commits
 ├── INFO_DATASETS.md                        # Estrutura e metadados dos datasets
 └── README.md
