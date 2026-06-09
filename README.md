@@ -64,18 +64,20 @@ Ao final do pipeline, consolidamos os três anos de dados em uma estrutura dimen
 ```text
 .
 ├── docs/
-│   ├──diagrama_fluxo.png         # Diagrama
-    └──esquema_estrela.png        # Esquema Estrela  
-├── insights/                     # Arquivos SQL com as análises finais
-├── pipelns/                      # Pipelines de ETL e ELT
-│   └── data/                     # Dados brutos (2014, 2015, 2016)
-├── transf_acidentes/             # Projeto dbt (Pipeline 2: Transformação)
-│   ├── models/
-│   │   ├── base/                 # Integração e limpeza dos dados brutos
-│   │   └── core/                 # Tabelas Dimensões e Fato finais
-│   └── dbt_project.yml
-├── CONTRIBUTING.md               # Padronização de contribuições e commits
-├── INFO_DATASETS.md              # Estrutura e metadados dos datasets
+│   ├──diagrama_fluxo.png                   # Diagrama
+│   ├──dicionario_dados.md 
+│   ├──esquema_estrela.png                  # Esquema Estrela  
+│   └──Projeto de Integração - GRUPO 9.pdf
+├── insights/                               # Arquivos SQL com as análises finais
+├── pipelns/                                # Pipelines de ETL e ELT
+│   ├── data/                               # Dados brutos (2014, 2015, 2016)
+│   ├── outputs/                            # Saídas
+│   │    ├── etl/
+│   │    └── elt/
+│   ├──pipeline_ELT_acidentes_recife.ipynb
+│   └──Pipeline_ETL_Acidentes_.ipynb
+├── CONTRIBUTING.md                         # Padronização de contribuições e commits
+├── INFO_DATASETS.md                        # Estrutura e metadados dos datasets
 └── README.md
 ```
 ## 🚀 Como Executar
